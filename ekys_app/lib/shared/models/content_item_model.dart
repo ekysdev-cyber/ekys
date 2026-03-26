@@ -1,0 +1,24 @@
+import 'package:freezed_annotation/freezed_annotation.dart';
+
+part 'content_item_model.freezed.dart';
+part 'content_item_model.g.dart';
+
+@freezed
+class ContentItemModel with _$ContentItemModel {
+  const factory ContentItemModel({
+    required String id,
+    required String subtopicId,
+    required String type, // 'summary', 'flashcard', 'audio_note'
+    required String title,
+    String? bodyMd,
+    String? frontText,
+    String? audioUrl,
+    int? durationSec,
+    @Default(1) int difficulty,
+    @Default(0) int orderIndex,
+    @Default([]) List<String> tags,
+  }) = _ContentItemModel;
+
+  factory ContentItemModel.fromJson(Map<String, dynamic> json) =>
+      _$ContentItemModelFromJson(json);
+}
