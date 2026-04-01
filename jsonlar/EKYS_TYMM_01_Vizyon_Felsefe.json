@@ -1,0 +1,685 @@
+{
+  "subtopic_slug": "[SLUG]",
+  "subtopic_title": "[BASLIK]",
+  "summary": {
+    "title": "TYMM — Vizyon, Felsefe ve Bütünsel Eğitim Yaklaşımı",
+    "body_md": "## Temel Kavramlar ve Tanımlar\n\n* **Bütüncül Eğitim Yaklaşımı:** İnsanı zihinsel, duygusal, bedensel, sosyal ve manevi açılardan bir bütün olarak ele alan, bireyin potansiyelini gerçekleştirmesini hedefleyen eğitim felsefesidir.\n* **Yetkin ve Erdemli İnsan:** Türkiye Yüzyılı Maarif Modeli'nin (TYMM) nihai hedefi olan öğrenci profilidir.\n* **Erdem-Değer-Eylem Çerçevesi:** Kişiyi erdemlere ulaştıran değerlerin eylemler aracılığıyla gözlemlenebilmesini sağlayan yapıdır.\n* **Öğrenme-Öğretme Yaşantıları:** Öğrencilerin aktif katılımcı olduğu; temel kabuller, ön değerlendirme, köprü kurma ve uygulamalar aşamalarından oluşan süreçlerdir.\n\n## Önemli Maddeler ve Hükümler\n\n* **Türkçenin Merkeze Alınması:** Türkçenin doğru ve etkili kullanımı eğitim sisteminde temel bir politika olarak belirlenmiştir.\n* **Farklılaştırılmış Öğretim:** Öğrencilerin bireysel hız ve ilgi alanlarına göre zenginleştirme veya destekleme yapılması esastır.\n* **Süreç Odaklı Ölçme ve Değerlendirme:** Geliştirici (biçimlendirici) ve kanıta dayalı (portfolyo vb.) çok boyutlu ölçme zorunlu kılınmıştır.\n* **Okul Temelli Planlama:** Yerel ihtiyaçlar doğrultusunda öğretmenlerin iş birliğiyle ders planlarında uyarlama yapabilmesine olanak tanınmıştır.\n\n## Sınav İçin Kritik Noktalar\n\n* **4 Temel Bütünlük:** Ontolojik (ruh-beden), Epistemolojik (bilgi-bilgelik), Zamansal (geçmiş-gelecek) ve Aksiyolojik (ahlak-estetik).\n* **3 Çatı Değer:** Saygı, Sorumluluk ve Adalet.\n* **Programlar Arası Bileşenler:** Sosyal-duygusal beceriler, EDE Çerçevesi ve sistem okuryazarlığı.\n* **Eğilimler (Dispositions):** Benlik, Sosyal ve Entelektüel olmak üzere 3 gruba ayrılır."
+  },
+  "audio_url": null,
+  "flashcards": [
+    {
+      "front_text": "TYMM'de eğitimin nihai hedefi olarak belirlenen ve bütün ideolojilerin üstünde tutulan ideal öğrenci profili nedir?",
+      "body_md": "Yetkin ve Erdemli İnsan",
+      "difficulty": 1,
+      "order_index": 0
+    },
+    {
+      "front_text": "Öğrencinin bedensel, zihinsel, ruhsal ve sosyal yönlerini dengeli bir şekilde geliştirmeyi hedefleyen bütünlük türü hangisidir?",
+      "body_md": "Ontolojik Bütünlük",
+      "difficulty": 2,
+      "order_index": 1
+    },
+    {
+      "front_text": "Erdem-Değer-Eylem Çerçevesi'nde diğer değerlerin etrafında kümelendiği üç adet 'Çatı Değer' hangileridir?",
+      "body_md": "Adalet, Saygı, Sorumluluk",
+      "difficulty": 1,
+      "order_index": 2
+    },
+    {
+      "front_text": "TYMM Beceriler Çerçevesi'ne göre karar verme, problem çözme ve eleştirel düşünme hangi beceri kategorisinde yer alır?",
+      "body_md": "Üst Düzey Düşünme Becerileri (Kavramsal Beceriler)",
+      "difficulty": 2,
+      "order_index": 3
+    },
+    {
+      "front_text": "Öğretmenlerin öğrencilerin ön bilgileri ile yeni öğrenecekleri bilgi/beceri arasında bağ kurmalarını sağladığı Öğrenme Yaşantısı aşaması nedir?",
+      "body_md": "Köprü Kurma",
+      "difficulty": 2,
+      "order_index": 4
+    },
+    {
+      "front_text": "Etiğin ve estetik değer yargılarının olgunlaşmasını, ahlaki ilkelerin davranışa yansıtılmasını ifade eden bütünlük kavramı nedir?",
+      "body_md": "Aksiyolojik Olgunluk",
+      "difficulty": 3,
+      "order_index": 5
+    },
+    {
+      "front_text": "Erdem-Değer-Eylem Çerçevesinin ulaşmayı hedeflediği üç nihai yapı nedir?",
+      "body_md": "Huzurlu İnsan\nHuzurlu Aile ve Toplum\nYaşanabilir Çevre",
+      "difficulty": 2,
+      "order_index": 6
+    },
+    {
+      "front_text": "Farklılaştırılmış öğretim kapsamında, performans olarak akranlarının gerisinde olan öğrencilere temel kavramların basamaklandırılarak sunulduğu yaklaşım nedir?",
+      "body_md": "Destekleme",
+      "difficulty": 1,
+      "order_index": 7
+    },
+    {
+      "front_text": "Kişinin zihinsel faaliyetlerini beceriye dönüştürürken bir eylemi tetikleyen ve niyet, duyarlılık, isteklilik barındıran zihinsel örüntülere ne ad verilir?",
+      "body_md": "Eğilimler (Dispositions)",
+      "difficulty": 3,
+      "order_index": 8
+    },
+    {
+      "front_text": "Toplumun tarihsel tecrübesini, ortak bilincini ve kültürünü eğitim sürecine dâhil ederek 'köklerden geleceğe' bağ kuran bütünlük ilkesi hangisidir?",
+      "body_md": "Zamansal Bütünlük",
+      "difficulty": 2,
+      "order_index": 9
+    },
+    {
+      "front_text": "TYMM öğretim programlarında 'Programlar Arası Bileşenler' başlığı altında yer alan 3 temel unsur nedir?",
+      "body_md": "Sosyal-Duygusal Öğrenme Becerileri\nErdem-Değer-Eylem Çerçevesi\nSistem Düşüncesi ve Okuryazarlık Becerileri",
+      "difficulty": 3,
+      "order_index": 10
+    },
+    {
+      "front_text": "Öğretmenlerin öğretim programının uygulama sürecindeki güçlü ve zayıf yönlerini değerlendirerek ders planlarını iyileştirmelerini sağlayan program ögesi nedir?",
+      "body_md": "Öğretmen Yansıtmaları",
+      "difficulty": 1,
+      "order_index": 11
+    }
+  ],
+  "questions": [
+    {
+      "question_text": "Türkiye Yüzyılı Maarif Modeli'nin (TYMM) temel hedefi, Türk eğitim sisteminin merkezine insanı alarak onu belirli bir profile ulaştırmaktır. Buna göre, TYMM'nin yetiştirmeyi hedeflediği nihai öğrenci profili aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rekabetçi ve analitik insan"
+        },
+        {
+          "label": "B",
+          "text": "Akademik odaklı ve başarılı insan"
+        },
+        {
+          "label": "C",
+          "text": "Yetkin ve erdemli insan"
+        },
+        {
+          "label": "D",
+          "text": "Küresel ve teknolojik insan"
+        }
+      ],
+      "correct_index": 2,
+      "explanation": "TYMM, sadece akademik başarıyı değil; gerekli bilgi ve becerilerle donanmış (yetkin) ve ahlaki olgunluğa erişmiş (erdemli) bireyler yetiştirmeyi nihai hedef olarak belirlemiştir.",
+      "difficulty": 1
+    },
+    {
+      "question_text": "TYMM'de insanın bütüncül gelişimi tanımlanırken dört ana bütünlük alanından bahsedilmektedir. Öğrencinin bireysel gelişimini bedensel, zihinsel, ruhsal ve sosyal yönleriyle dengeli şekilde ele alan bütünlük türü aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ontolojik Bütünlük"
+        },
+        {
+          "label": "B",
+          "text": "Epistemolojik Bütünlük"
+        },
+        {
+          "label": "C",
+          "text": "Zamansal Bütünlük"
+        },
+        {
+          "label": "D",
+          "text": "Aksiyolojik Olgunluk"
+        }
+      ],
+      "correct_index": 0,
+      "explanation": "İnsanın ruh ve beden bütünlüğünü, fiziksel sağlığı ile içsel/ruhsal özelliklerini bir uyum içinde ele alan kavram ontolojik bütünlüktür.",
+      "difficulty": 2
+    },
+    {
+      "question_text": "Eğitim sürecinde, öğrencinin sadece kendi bireysel geçmişiyle sınırlı kalmayıp, içinde bulunduğu toplumun kültürel mirası, tarihsel tecrübesi ve ortak bilinci ile bağ kurarak 'köklerden geleceğe' bir köprü oluşturmasını ifade eden kavram aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Aksiyolojik Olgunluk"
+        },
+        {
+          "label": "B",
+          "text": "Zamansal Bütünlük"
+        },
+        {
+          "label": "C",
+          "text": "Sistem Düşüncesi"
+        },
+        {
+          "label": "D",
+          "text": "Epistemolojik Bütünlük"
+        }
+      ],
+      "correct_index": 1,
+      "explanation": "Zamansal bütünlük, eğitimin geçmişten geleceğe uzanan bir süreç olduğunu, bireyin milletçe sahip olunan ortak geçmiş ve değerlerle geleceğe hazırlanmasını ifade eder.",
+      "difficulty": 2
+    },
+    {
+      "question_text": "TYMM'nin dayandığı 'Erdem-Değer-Eylem (EDE) Çerçevesi'nde, diğer değerlerin kendileriyle yoğun kesişim noktaları oluşturduğu ve etrafında kümelendiği 'çatı değerler' belirlenmiştir. Aşağıdakilerden hangisi bu çatı değerlerden biri değildir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Adalet"
+        },
+        {
+          "label": "B",
+          "text": "Özgürlük"
+        },
+        {
+          "label": "C",
+          "text": "Sorumluluk"
+        },
+        {
+          "label": "D",
+          "text": "Saygı"
+        }
+      ],
+      "correct_index": 1,
+      "explanation": "EDE Çerçevesi'nde Adalet, Saygı ve Sorumluluk olmak üzere üç adet çatı değer bulunmaktadır; Özgürlük bu çatı değerlerin altında yer alan diğer değerlerdendir.",
+      "difficulty": 1
+    },
+    {
+      "question_text": "Okul müdürü Ayşe Hanım, öğretmenlerle yaptığı kurul toplantısında, eğitim-öğretim sürecinin yeni modelde sadece bilgiyi ezberlemek olmadığını, öğrencinin bu bilgiyi günlük hayattaki ahlaki ikilemleri çözmek, yeni anlamlar üretmek ve varlığını tanımak için kullanması (bilgelik) gerektiğini vurgulamıştır. Ayşe Hanım'ın vurguladığı bu yaklaşım, TYMM'nin hangi bütünlük anlayışının karşılığıdır?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ontolojik Bütünlük"
+        },
+        {
+          "label": "B",
+          "text": "Zamansal Bütünlük"
+        },
+        {
+          "label": "C",
+          "text": "Epistemolojik Bütünlük"
+        },
+        {
+          "label": "D",
+          "text": "Ekolojik Bütünlük"
+        }
+      ],
+      "correct_index": 2,
+      "explanation": "Bilgiyi sadece elde etmeyi değil, onu karar alma ve anlamlandırmada kullanarak bilgeliğe ulaşmayı hedefleyen yapı Epistemolojik Bütünlük'tür.",
+      "difficulty": 3
+    },
+    {
+      "question_text": "TYMM'ye göre, becerilerin eyleme dönüşmesini sağlayan, zihinsel faaliyetleri tetikleyen ve niyet, motivasyon, isteklilik gibi unsurları içinde barındıran özelliklere 'Eğilimler' adı verilir. Aşağıdakilerden hangisi TYMM'de sınıflandırılan 'Eğilimler'den biri değildir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Benlik Eğilimleri"
+        },
+        {
+          "label": "B",
+          "text": "Entelektüel Eğilimler"
+        },
+        {
+          "label": "C",
+          "text": "Sosyal Eğilimler"
+        },
+        {
+          "label": "D",
+          "text": "Fiziksel Eğilimler"
+        }
+      ],
+      "correct_index": 3,
+      "explanation": "TYMM'de eğilimler Benlik, Sosyal ve Entelektüel olmak üzere üçe ayrılmıştır. Fiziksel eğilimler şeklinde bir sınıflandırma yoktur.",
+      "difficulty": 2
+    },
+    {
+      "question_text": "Bir fen bilimleri öğretmeni, dersine başlamadan önce öğrencilerinin önceki yıllarda edindiği bilgileri ve deneyimleri hatırlamalarını sağlamak için bir tartışma ortamı yaratmış, yeni konuyu bu deneyimler üzerine inşa etmiştir. TYMM Öğrenme-Öğretme Yaşantıları modeline göre, öğretmenin yaptığı bu uygulama aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Temel Kabuller"
+        },
+        {
+          "label": "B",
+          "text": "Köprü Kurma"
+        },
+        {
+          "label": "C",
+          "text": "Öğretmen Yansıtması"
+        },
+        {
+          "label": "D",
+          "text": "Zenginleştirme"
+        }
+      ],
+      "correct_index": 1,
+      "explanation": "Öğrencilerin mevcut bilgi ve günlük deneyimleri ile yeni öğrenecekleri bilgi arasında bağ kurma sürecine Köprü Kurma adı verilir.",
+      "difficulty": 2
+    },
+    {
+      "question_text": "TYMM, sınıf içinde farklı öğrenme hızlarına ve ihtiyaçlarına sahip öğrencilere yönelik 'Farklılaştırılmış Öğretim' yaklaşımını zorunlu tutar. Öğrenme hızı akranlarının ilerisinde olan, konuları kolayca kavrayan bir öğrenci için öğretmenin daha soyut, karmaşık ve derinlemesine projeler sunması aşağıdaki kavramlardan hangisiyle ifade edilir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Destekleme"
+        },
+        {
+          "label": "B",
+          "text": "Sentezleme"
+        },
+        {
+          "label": "C",
+          "text": "Zenginleştirme"
+        },
+        {
+          "label": "D",
+          "text": "Ön Değerlendirme"
+        }
+      ],
+      "correct_index": 2,
+      "explanation": "Öğrenme profili ileri düzeyde olan öğrencilere içeriğin derinleştirilerek, soyut düşünme gerektiren formatta sunulması Farklılaştırma uygulamalarından Zenginleştirmedir.",
+      "difficulty": 1
+    },
+    {
+      "question_text": "TYMM kapsamında öğrenme çıktıları belirlenirken üç farklı alan birleştirilir. Bilgi kümeleri, alan becerileri ve alanın kendine has içerikleri bir örgü oluşturur. Bu sistemde karmaşık bir süreç gerektirmeden edinilen, 'saymak, yazmak, çizmek, işaret etmek' gibi basit ve gözlemlenebilen eylemlere ne ad verilir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Üst Düzey Düşünme Becerileri"
+        },
+        {
+          "label": "B",
+          "text": "Temel Beceriler"
+        },
+        {
+          "label": "C",
+          "text": "Sosyal Yaşam Becerileri"
+        },
+        {
+          "label": "D",
+          "text": "Bütünleşik Beceriler"
+        }
+      ],
+      "correct_index": 1,
+      "explanation": "Herhangi bir karmaşık süreç gerektirmeyen, doğrudan gözlenebilir düzeydeki alt beceriler Kavramsal Beceriler içindeki Temel Becerilerdir.",
+      "difficulty": 1
+    },
+    {
+      "question_text": "Türkiye Yüzyılı Maarif Modeli'nin dil politikası son derece nettir. Öğretim programlarında ve ortak metinde belirli bir unsurun öğretimi ve geliştirilmesi 'sistemin birleştirici ve bütünleştirici ana unsuru' olarak görülmektedir. Bu bağlamda tüm derslerin programlarında merkeze alınan, varlık dünyasını anlamlandırmanın temel aracı kabul edilen husus aşağıdakilerden hangisidir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Yabancı Dil Öğretimi"
+        },
+        {
+          "label": "B",
+          "text": "Türkçenin Doğru ve Etkili Kullanımı"
+        },
+        {
+          "label": "C",
+          "text": "Bilişim Teknolojileri ve Kodlama"
+        },
+        {
+          "label": "D",
+          "text": "Sosyal Medya Okuryazarlığı"
+        }
+      ],
+      "correct_index": 1,
+      "explanation": "Dil (Türkçe), düşünce üretmenin ve iletişimin temel aracı olduğundan, Türkçenin eğitimi ve geliştirilmesi her aşamada temel politika olarak merkeze alınmıştır.",
+      "difficulty": 1
+    },
+    {
+      "question_text": "TYMM 'Programlar Arası Bileşenler'in, öğrenme sürecini zenginleştirmek için sadece tek bir derste değil, yatay ve dikey olarak tüm süreçlerde işletilmesini öngörür. Aşağıdakilerden hangisi TYMM'de belirtilen Programlar Arası Bileşenler'den biri değildir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Erdem-Değer-Eylem Çerçevesi"
+        },
+        {
+          "label": "B",
+          "text": "Sosyal-Duygusal Öğrenme Becerileri"
+        },
+        {
+          "label": "C",
+          "text": "Sistem Düşüncesi ve Okuryazarlık Becerileri"
+        },
+        {
+          "label": "D",
+          "text": "Mesleki Yönlendirme ve Kariyer Planlama"
+        }
+      ],
+      "correct_index": 3,
+      "explanation": "Programlar arası bileşenler; Sosyal-Duygusal Öğrenme, EDE Çerçevesi ve Sistem Düşüncesi/Okuryazarlık Becerileridir.",
+      "difficulty": 3
+    },
+    {
+      "question_text": "TYMM'nin benimsediği 'Sosyal-Duygusal Öğrenme Becerileri' modeli bağımsız bir ders değil, tüm programlara nüfuz eden bir yeterlik kümesidir. Bu beceriler modelde üç alt boyutta kategorize edilmiştir. Aşağıdakilerden hangisi bu boyutlardan biri değildir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Benlik Becerileri"
+        },
+        {
+          "label": "B",
+          "text": "Fiziksel Uyum Becerileri"
+        },
+        {
+          "label": "C",
+          "text": "Sosyal Yaşam Becerileri"
+        },
+        {
+          "label": "D",
+          "text": "Ortak/Birleşik Beceriler"
+        }
+      ],
+      "correct_index": 1,
+      "explanation": "TYMM sosyal-duygusal öğrenme becerileri; Benlik Becerileri, Sosyal Yaşam Becerileri ve Ortak/Birleşik Beceriler olmak üzere üç bileşenlidir.",
+      "difficulty": 3
+    },
+    {
+      "question_text": "TYMM'nin benimsediği 'Erdem-Değer-Eylem Çerçevesi' (EDE) kapsamında nihai hedefler belirlenmiştir. Bu modelde erdemli insanın inşası ile birlikte üç adet küresel ve toplumsal yapıya ulaşmak amaçlanır. Aşağıdakilerden hangisi EDE Çerçevesinin ulaşmayı hedeflediği üç nihai amaçtan biri değildir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Rekabetçi Birey"
+        },
+        {
+          "label": "B",
+          "text": "Huzurlu İnsan"
+        },
+        {
+          "label": "C",
+          "text": "Huzurlu Aile ve Toplum"
+        },
+        {
+          "label": "D",
+          "text": "Yaşanabilir Çevre"
+        }
+      ],
+      "correct_index": 0,
+      "explanation": "EDE Çerçevesi'nİn nihai hedefi Huzurlu İnsan, Huzurlu Aile ve Toplum ile Yaşanabilir Çevre oluşturmaktır. Rekabet, modelin hedefleri arasında yer almaz.",
+      "difficulty": 2
+    },
+    {
+      "question_text": "Okul Temelli Planlama, Türkiye Yüzyılı Maarif Modeli'nin esnek yapısını destekleyen önemli bir unsurdur. Bu kavrama göre, öğretmenlerin öğretim programlarını uygularken aşağıdakilerden hangisini yapması beklenir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Sınav odaklı tek tip bir eğitim materyali hazırlaması"
+        },
+        {
+          "label": "B",
+          "text": "MEB'in gönderdiği ders planını hiçbir değişiklik yapmadan uygulaması"
+        },
+        {
+          "label": "C",
+          "text": "Yerel, bölgesel ihtiyaçları ve okulun imkânlarını dikkate alarak ders süreçlerini iş birliğiyle uyarlaması"
+        },
+        {
+          "label": "D",
+          "text": "Zümre öğretmenlerinden bağımsız, kendi kişisel müfredatını yazması"
+        }
+      ],
+      "correct_index": 2,
+      "explanation": "Okul Temelli Planlama, yerel ve bölgesel ihtiyaçların dikkate alınarak zümre iş birliği ile ders saatlerinde ve esnek planlamada karar alınmasını ifade eder.",
+      "difficulty": 1
+    },
+    {
+      "question_text": "TYMM ölçme ve değerlendirme yaklaşımında eski geleneksel modellerden farklılaşarak yeni bir sisteme geçmiştir. TYMM ölçme ve değerlendirme yaklaşımı için aşağıdakilerden hangisi söylenemez?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Süreç ve durum temelli değerlendirme öne çıkarılır."
+        },
+        {
+          "label": "B",
+          "text": "Sadece akademik bilgi ve sonuç odaklı standart testler kullanılır."
+        },
+        {
+          "label": "C",
+          "text": "Tanılayıcı, biçimlendirici ve düzey belirleyici değerlendirmeler dengeli kullanılır."
+        },
+        {
+          "label": "D",
+          "text": "Gözlemlenebilir ve somut öğrenme kanıtları (portfolyo, proje vb.) esastır."
+        }
+      ],
+      "correct_index": 1,
+      "explanation": "Model, salt sonuç odaklı ve çoktan seçmeli testleri değil; süreç ve durum temelli, geliştirici (biçimlendirici) ve çoklu öğrenme kanıtlarını (portfolyo vb.) merkeze alır.",
+      "difficulty": 1
+    },
+    {
+      "question_text": "Eğitimde soyut fikirlerin ve karmaşık süreçlerin eyleme dönüştürülmesini sağlayan, 'Karar verme, Problem çözme ve Eleştirel düşünme' gibi ögeleri barındıran beceri grubu TYMM'de nasıl adlandırılmıştır?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Üst Düzey Düşünme Becerileri"
+        },
+        {
+          "label": "B",
+          "text": "Fiziksel Beceriler"
+        },
+        {
+          "label": "C",
+          "text": "Bütünleşik Beceriler"
+        },
+        {
+          "label": "D",
+          "text": "Okuryazarlık Becerileri"
+        }
+      ],
+      "correct_index": 0,
+      "explanation": "En az iki bütünleşik beceriyi içeren, karar verme, problem çözme ve eleştirel düşünmeyi kapsayan zihinsel süreçler Üst Düzey Düşünme Becerileri olarak adlandırılır.",
+      "difficulty": 2
+    },
+    {
+      "question_text": "Farklılaştırma uygulamalarından 'Destekleme' ile ilgili aşağıdaki açıklamalardan hangisi doğrudur?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Üstün yetenekli öğrencilere bağımsız araştırma görevleri verilmesidir."
+        },
+        {
+          "label": "B",
+          "text": "Sınıfın ortalama performansının gerisinde kalan öğrenciler için bilginin basamaklandırılarak ve tekrarlanarak sunulmasıdır."
+        },
+        {
+          "label": "C",
+          "text": "Okul dışı öğrenme ortamlarına yapılan gezileri ifade eder."
+        },
+        {
+          "label": "D",
+          "text": "Tüm öğrencilerin yıl sonunda gireceği ortak bir destek sınavını tanımlar."
+        }
+      ],
+      "correct_index": 1,
+      "explanation": "Destekleme, öğrenme hızı ve performansı akranlarının gerisinde kalan öğrencilere temel kavramların adım adım ve anlaşılır formatlarda sunularak öğrenme eksikliklerinin giderilmesini hedefler.",
+      "difficulty": 1
+    },
+    {
+      "question_text": "Türkiye Yüzyılı Maarif Modeli'nde yer alan 'Sistem Düşüncesi ve Okuryazarlık Becerileri' kapsamında bilgi bolluğu ve karmaşıklık karşısında öğrencinin doğru konum alması amaçlanır. Aşağıdakilerden hangisi TYMM'de tanımlanan sistem okuryazarlığı becerilerinden biri değildir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Bilgi Okuryazarlığı"
+        },
+        {
+          "label": "B",
+          "text": "Finansal Okuryazarlık"
+        },
+        {
+          "label": "C",
+          "text": "Ezberleme Okuryazarlığı"
+        },
+        {
+          "label": "D",
+          "text": "Sürdürülebilirlik Okuryazarlığı"
+        }
+      ],
+      "correct_index": 2,
+      "explanation": "Okuryazarlık becerileri arasında Bilgi, Dijital, Finansal, Görsel, Kültür, Vatandaşlık, Veri, Sürdürülebilirlik ve Sanat okuryazarlığı bulunur. Ezberleme okuryazarlığı diye bir beceri yoktur.",
+      "difficulty": 2
+    },
+    {
+      "question_text": "Bir eğitim yaklaşımının, sadece akademik kazanımlara odaklanmak yerine; öğrencinin zihinsel, duygusal, fiziksel, sosyal ve ahlaki yönlerini kapsayan, onu her yönüyle tamamlanmış bir fert olarak yetiştirmeyi amaçlamasına ne ad verilir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Davranışçı Yaklaşım"
+        },
+        {
+          "label": "B",
+          "text": "İlerlemeci Yaklaşım"
+        },
+        {
+          "label": "C",
+          "text": "Bütüncül Eğitim Yaklaşımı"
+        },
+        {
+          "label": "D",
+          "text": "Seçmeci (Eklektik) Eğitim Yaklaşımı"
+        }
+      ],
+      "correct_index": 2,
+      "explanation": "İnsanı tüm fıtri özellikleriyle (zihinsel, duygusal, bedensel, sosyal, manevi) bir bütün olarak ele alan yapı, TYMM'nin de temeli olan 'Bütüncül Eğitim Yaklaşımı'dır.",
+      "difficulty": 1
+    },
+    {
+      "question_text": "TYMM'de 'Öğrenme-Öğretme Yaşantıları' basamaklı bir süreç olarak tasarlanmıştır. Bu sürecin en başında, yeni bir ünite veya konuya geçerken öğrencilerin önceden öğrenmiş olduğu ve derste ihtiyaç duyacağı kavram ve ilkelerin varlığına '……' denir. Boş bırakılan yere hangi kavram gelmelidir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Temel Kabuller"
+        },
+        {
+          "label": "B",
+          "text": "Köprü Kurma"
+        },
+        {
+          "label": "C",
+          "text": "Eğilimler"
+        },
+        {
+          "label": "D",
+          "text": "Ön Değerlendirme"
+        }
+      ],
+      "correct_index": 0,
+      "explanation": "Öğrencilerin eğitim sürecinde kazanmış oldukları, yeni konular için temel teşkil ettiği kabul edilen bilgi ve beceriler bütününe 'Temel Kabuller' denir.",
+      "difficulty": 2
+    },
+    {
+      "question_text": "TYMM Program Dışı Etkinlikler başlığı ile okuldaki eğitimi okul sınırlarının dışına taşımayı hedefler. Aşağıdakilerden hangisi Program Dışı Etkinlikler kapsamında özellikle vurgulanan uygulamalardan biridir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Klasik yazılı yoklamalar"
+        },
+        {
+          "label": "B",
+          "text": "Sosyal Sorumluluk Programı ve Hayat Boyu Öğrenme"
+        },
+        {
+          "label": "C",
+          "text": "Sınıf içi zenginleştirme etkinlikleri"
+        },
+        {
+          "label": "D",
+          "text": "Biçimlendirici değerlendirme rubrikleri"
+        }
+      ],
+      "correct_index": 1,
+      "explanation": "Program dışı etkinlikler kapsamında 'Sosyal Sorumluluk Programı' ve öğrencilerin okul dışı deneyimlerini besleyen 'Hayat Boyu Öğrenme' alanları yer almaktadır.",
+      "difficulty": 2
+    },
+    {
+      "question_text": "Etik değerlerin eyleme dönüşmüş biçimi olarak tanımlanan 'Ahlaklılık', TYMM öğrenci profilinin önemli bir bileşenidir. Aşağıdaki özelliklerden hangisi 'Ahlaklı' profilindeki bir öğrencinin sahip olması beklenen alt davranışlardan biri değildir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Başkalarının haklarına saygı duyan"
+        },
+        {
+          "label": "B",
+          "text": "Risk alarak girişimci atılımlar yapan"
+        },
+        {
+          "label": "C",
+          "text": "Tabiata ve toplumsal sorunlara duyarlı"
+        },
+        {
+          "label": "D",
+          "text": "Doğru ve dürüst davranan"
+        }
+      ],
+      "correct_index": 1,
+      "explanation": "'Risk alan ve girişimci' olma niteliği öğrenci profilinde 'Cesaretli' veya 'İradeli/Girişimci' başlığı altındaki tutumlardır; 'Ahlaklı' boyutu adalet, saygı, dürüstlük ve duyarlılıkla ilgilidir.",
+      "difficulty": 3
+    },
+    {
+      "question_text": "'Eğitimin bir ayağı geçmişe dayanır, diğer ayağı ise geleceğe ufuklar açan bir kapıdır.' cümlesiyle felsefesini özetleyen TYMM, bu vizyonunu hangi sloganla formüle etmiştir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Dünden Bugüne Bilim"
+        },
+        {
+          "label": "B",
+          "text": "Köklerden Geleceğe"
+        },
+        {
+          "label": "C",
+          "text": "Çağdaş ve Geleneksel"
+        },
+        {
+          "label": "D",
+          "text": "Akademiden Hayata"
+        }
+      ],
+      "correct_index": 1,
+      "explanation": "Millî ve manevi kökleri koruyarak maddi gelişimin zirvesini hedefleyen bu eğitim modeli 'Köklerden Geleceğe' mottosu/sloganı ile tanımlanmıştır.",
+      "difficulty": 1
+    },
+    {
+      "question_text": "Öğretmenin sınıfında uyguladığı bir ders planının sonunda, 'Öğrenciler hangi becerilerde zorlandı? Kullandığım yöntem amacına ulaştı mı? Gelecek dersi nasıl daha iyi planlarım?' gibi sorular sorarak kendini değerlendirdiği TYMM bileşenine ne ad verilir?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Ön Değerlendirme"
+        },
+        {
+          "label": "B",
+          "text": "Farklılaştırma"
+        },
+        {
+          "label": "C",
+          "text": "Öğretmen Yansıtmaları"
+        },
+        {
+          "label": "D",
+          "text": "Disiplinler Arası İlişki"
+        }
+      ],
+      "correct_index": 2,
+      "explanation": "Öğretmenlerin kendilerinin ve programın güçlü veya iyileştirilmesi gereken yönlerini değerlendirerek öğretimi geliştirmeleri 'Öğretmen Yansıtmaları' bileşenidir.",
+      "difficulty": 1
+    },
+    {
+      "question_text": "Aksiyolojik olgunluk, TYMM'nin öğrenci profilini oluşturan temel sacayaklarından biridir. Buna göre 'Aksiyolojik Olgunluk' kavramı aşağıdakilerden hangisini ifade eder?",
+      "options": [
+        {
+          "label": "A",
+          "text": "Beden ve zihin sağlığını dengede tutmayı"
+        },
+        {
+          "label": "B",
+          "text": "Sadece geçmişteki olayları iyi derecede analiz etmeyi"
+        },
+        {
+          "label": "C",
+          "text": "Değerleri, ahlaki ilkeleri anlama ve estetik duyarlılıkla bunları eyleme dökmeyi"
+        },
+        {
+          "label": "D",
+          "text": "Bilimsel teknolojileri ve kodlama dillerini etkili şekilde kullanmayı"
+        }
+      ],
+      "correct_index": 2,
+      "explanation": "Aksiyolojik olgunluk; etik ve estetik değer yargılarının olgunlaşmasını, ahlaki bilincin gelişmesini ve bu güzellik anlayışının kişinin eylemlerine (davranışlarına) yansıtılmasını ifade eder.",
+      "difficulty": 2
+    }
+  ]
+}

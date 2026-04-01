@@ -1,0 +1,385 @@
+{
+  "subtopic_slug": "[SLUG]",
+  "subtopic_title": "[BASLIK]",
+  "summary": {
+    "title": "TYMM — Beceriler Çerçevesi ve Öğrenme Alanları Kapsamlı Özet",
+    "body_md": "## Temel Kavramlar ve Tanımlar\\n\\n* **Bütüncül Eğitim Yaklaşımı:** İnsanın zihinsel, sosyal, duygusal, fiziksel ve ahlaki bakımdan çok yönlü gelişimini desteklemeyi amaçlayan, insanı fıtri özellikleriyle bir bütün olarak ele alan eğitim felsefesidir.\\n* **Yetkin ve Erdemli İnsan:** Türkiye Yüzyılı Maarif Modeli'nin nihai öğrenci profilidir; ahlaklı, bilge, cesaretli, iradeli, merhametli, sağlıklı ve vatansever bireyler yetiştirmeyi hedefler.\\n* **Kavramsal Beceriler:** Karmaşık ve soyut fikirleri eyleme dönüştürme sürecinde ortaya çıkan becerilerdir; temel beceriler, bütünleşik beceriler ve üst düzey düşünme becerileri olarak üçe ayrılır.\\n* **Alan Becerileri:** Kavramsal becerileri ve/veya alana özgü bütünleşik becerileri kapsayan, ilgili dersin doğasına ve bilgi kümelerine özgü yapılandırılmış becerilerdir.\\n* **Sosyal-Duygusal Öğrenme Becerileri:** Öğrencilerin kendileri ve çevreleriyle olumlu ilişkiler kurabilmesi, duygularını yönetebilmesi ve sağlıklı bir benlik geliştirebilmesi için gerekli olan beceri setidir.\\n* **Erdem-Değer-Eylem Çerçevesi:** Millî ve manevi değerleri evrensel boyutla harmanlayarak, eylemlerden değerlere, değerlerden erdemli insana ulaşmayı hedefleyen yapısal modeldir.\\n* **Eğilimler:** Becerilerin öğrenilmesini kolaylaştıran zihinsel örüntülerdir; benlik, sosyal ve entelektüel eğilimler olarak üçe ayrılır.\\n* **Okuryazarlık Becerileri:** Sistem düşüncesi bağlamında karmaşık sistemleri anlama ve ilişkileri görebilme yeteneğini geliştiren 9 farklı beceri alanıdır.\\n\\n## Önemli Maddeler ve Mevzuat\\n\\n* **Motto ve Hedef:** Programın mottosu 'Köklerden Geleceğe' olarak belirlenmiştir.\\n* **Programlar Arası Bileşenler:** Sosyal-duygusal öğrenme becerileri, Erdem-Değer-Eylem Çerçevesi ve Sistem Düşüncesi/Okuryazarlık becerileri tüm derslere kaynaşık işlenir.\\n* **Farklılaştırma Standardı:** Üst yetenekler için 'Zenginleştirme', eksikleri olanlar için 'Destekleme' faaliyetleri zorunludur.\\n* **Ölçme Yaklaşımı:** Yarıştıran değil, geliştirici (biçimlendirici) değerlendirme merkeze alınmıştır.\\n* **Sınav Ağırlığı:** TYMM, EKYS sınavında 24 soru ile %30 ağırlığa sahiptir.\\n\\n## Sınav İçin Kritik Noktalar\\n\\n* **Üst Düzey Düşünme Becerileri (3 Adet):** Karar verme, Problem çözme ve Eleştirel düşünme.\\n* **Okuryazarlık Türleri (9 Adet):** Bilgi, Dijital, Finansal, Görsel, Kültür, Vatandaşlık, Veri, Sürdürülebilirlik, Sanat.\\n* **Çatı Değerler:** Adalet, Saygı ve Sorumluluk.\\n* **Eğilimlerin İşlevi:** Becerileri tetikleyici rol üstlenir."
+  },
+  "audio_url": null,
+  "flashcards": [
+    {
+      "front_text": "Türkiye Yüzyılı Maarif Modeli'nin ulaştırmayı hedeflediği nihai öğrenci profili nedir?",
+      "body_md": "Yetkin ve Erdemli İnsan",
+      "difficulty": 1,
+      "order_index": 0
+    },
+    {
+      "front_text": "Programın temel hareket noktasını özetleyen ana motto (slogan) nedir?",
+      "body_md": "'Köklerden Geleceğe'",
+      "difficulty": 1,
+      "order_index": 1
+    },
+    {
+      "front_text": "TYMM'de belirlenen 3 'Üst Düzey Düşünme Becerisi' hangileridir?",
+      "body_md": "Karar Verme, Problem Çözme, Eleştirel Düşünme",
+      "difficulty": 2,
+      "order_index": 2
+    },
+    {
+      "front_text": "Erdem-Değer-Eylem Çerçevesinde merkeze alınan 3 'Çatı Değer' nelerdir?",
+      "body_md": "Adalet, Saygı, Sorumluluk",
+      "difficulty": 3,
+      "order_index": 3
+    },
+    {
+      "front_text": "TYMM Beceriler Çerçevesinde 'Sistem Düşüncesi' hangi beceri alanının ayrılmaz bir parçası olarak görülmektedir?",
+      "body_md": "Okuryazarlık Becerileri",
+      "difficulty": 2,
+      "order_index": 4
+    },
+    {
+      "front_text": "Öğrenme hızı akranlarından yüksek olan öğrenciler için konuyu değiştirmeden karmaşıklık ve soyutluk katarak uygulanan öğretim stratejisi nedir?",
+      "body_md": "Zenginleştirme (Farklılaştırma kapsamında)",
+      "difficulty": 1,
+      "order_index": 5
+    },
+    {
+      "front_text": "İnsanın zihinsel, sosyal, duygusal, fiziksel ve ahlaki gelişimini birbirinden ayırmadan tüm alanları dikkate alan eğitim felsefesinin adı nedir?",
+      "body_md": "Bütüncül Eğitim Yaklaşımı (Holistik Eğitim)",
+      "difficulty": 1,
+      "order_index": 6
+    },
+    {
+      "front_text": "TYMM Beceriler Çerçevesi'nde yer alan 'Eğilimler' hangi üç alt başlıkta sınıflandırılmıştır?",
+      "body_md": "Benlik Eğilimleri, Sosyal Eğilimler, Entelektüel Eğilimler",
+      "difficulty": 3,
+      "order_index": 7
+    },
+    {
+      "front_text": "TYMM'ye göre, programların sadece bilgi aktarımı değil örtük amaçlarını da gerçekleştiren 'Programlar Arası Bileşenler' nelerdir?",
+      "body_md": "Sosyal-Duygusal Öğrenme Becerileri, Erdem-Değer-Eylem Çerçevesi, Sistem Düşüncesi ve Okuryazarlık Becerileri",
+      "difficulty": 2,
+      "order_index": 8
+    },
+    {
+      "front_text": "Eğitimde dezavantajlı ya da öğrenme eksiği olan öğrencilere ek zaman, materyal ve uyarlanmış ortam sunarak yapılan farklılaştırma uygulaması nedir?",
+      "body_md": "Destekleme",
+      "difficulty": 2,
+      "order_index": 9
+    },
+    {
+      "front_text": "Parçalar arasında ilişki kurarak parçaları özgün bir bütün oluşturmak yolu ile bir araya getirme sürecini ifade eden Bütünleşik Beceri hangisidir?",
+      "body_md": "Sentezleme Becerisi",
+      "difficulty": 3,
+      "order_index": 10
+    },
+    {
+      "front_text": "Okuma, yazma, sayma ve ölçme gibi karmaşık bir süreç gerektirmeden edinilen beceriler TYMM'de hangi kavramla adlandırılır?",
+      "body_md": "Temel Beceriler",
+      "difficulty": 3,
+      "order_index": 11
+    }
+  ],
+  "questions": [
+    {
+      "question_text": "2026 EKYS konu dağılımına göre, yazılı sınavda adaylara 'Türkiye Yüzyılı Maarif Modeli' başlığından kaç soru sorulacaktır ve bu alanın toplam sınavdaki ağırlığı yüzde kaçtır?",
+      "options": [
+        {"label": "A", "text": "12 Soru - %15"},
+        {"label": "B", "text": "16 Soru - %20"},
+        {"label": "C", "text": "20 Soru - %25"},
+        {"label": "D", "text": "24 Soru - %30"}
+      ],
+      "correct_index": 3,
+      "explanation": "Resmi dağılıma göre TYMM sınavda en yüksek ağırlığa sahip olup 24 soru ile sınavın %30'unu oluşturmaktadır.",
+      "difficulty": 1
+    },
+    {
+      "question_text": "Türkiye Yüzyılı Maarif Modeli'nin nihai hedefi olan 'Yetkin ve Erdemli İnsan' profiline ulaşmada, insanın fiziksel, zihinsel, sosyal, duygusal ve ahlaki gelişiminin birbirinden ayrılmadan eş değerde işlenmesi gerektiğini savunan temel yaklaşım aşağıdakilerden hangisidir?",
+      "options": [
+        {"label": "A", "text": "Yapılandırmacı Yaklaşım"},
+        {"label": "B", "text": "Bütüncül Eğitim Yaklaşımı"},
+        {"label": "C", "text": "İlerlemeci Yaklaşım"},
+        {"label": "D", "text": "Sistematik Tasarım Yaklaşımı"}
+      ],
+      "correct_index": 1,
+      "explanation": "Modelin merkezinde insanın fıtri özelliklerini koruyan ve çok yönlü gelişimini eş değerde gören 'Bütüncül Eğitim (Holistik)' yaklaşımı yer alır.",
+      "difficulty": 1
+    },
+    {
+      "question_text": "Türkiye Yüzyılı Maarif Modeli'nin program felsefesini özetleyen ve milli/manevi değerler ile çağın gerektirdiği yetkinliklerin birleşimini ifade eden motto aşağıdakilerden hangisidir?",
+      "options": [
+        {"label": "A", "text": "Her Yerde Eğitim"},
+        {"label": "B", "text": "Gelenekten Geleceğe"},
+        {"label": "C", "text": "Köklerden Geleceğe"},
+        {"label": "D", "text": "Bütüncül Şahsiyet"}
+      ],
+      "correct_index": 2,
+      "explanation": "Model, 'Köklerden Geleceğe' mottosuyla milli ve manevi değerler (kökler) ile modern yetkinlikleri (gelecek) birleştirmeyi hedefler.",
+      "difficulty": 1
+    },
+    {
+      "question_text": "Bir okul müdürü, öğretmenler kurulunda yaptığı konuşmada; 'Öğrencilerimizi sadece akademik başarılarıyla değil, ahlaki pusulalarıyla ve çevreye olan duyarlılıklarıyla da değerlendirmeli, onlara bu değerleri dersin doğal akışı içinde vermeliyiz' demiştir. Okul müdürünün bu vurgusu hangi bileşene atıf yapmaktadır?",
+      "options": [
+        {"label": "A", "text": "Okuryazarlık Becerileri"},
+        {"label": "B", "text": "Sosyal-Duygusal Öğrenme Becerileri"},
+        {"label": "C", "text": "Kavramsal Beceriler"},
+        {"label": "D", "text": "Erdem-Değer-Eylem Çerçevesi"}
+      ],
+      "correct_index": 3,
+      "explanation": "Erdemli bireyler yetiştirmek için saygı, adalet, çevreye duyarlılık gibi değerlerin ders akışına entegre edilmesi Erdem-Değer-Eylem çerçevesinin konusudur.",
+      "difficulty": 2
+    },
+    {
+      "question_text": "Aşağıdakilerden hangisi bu modelde belirlenen 'Üst Düzey Düşünme Becerileri'nden biri değildir?",
+      "options": [
+        {"label": "A", "text": "Problem Çözme"},
+        {"label": "B", "text": "Yansıtma"},
+        {"label": "C", "text": "Eleştirel Düşünme"},
+        {"label": "D", "text": "Karar Verme"}
+      ],
+      "correct_index": 1,
+      "explanation": "Karar verme, problem çözme ve eleştirel düşünme üst düzey düşünme becerileridir. Yansıtma ise 'Bütünleşik Beceriler' arasında yer alır.",
+      "difficulty": 2
+    },
+    {
+      "question_text": "Sınıfındaki bazı öğrencilerin öğrenme hızının diğerlerinden yüksek olduğunu fark eden bir öğretmen, konuyu değiştirmeden etkinlikleri daha soyut ve karmaşık hale getirmiştir. Bu yaklaşım nedir?",
+      "options": [
+        {"label": "A", "text": "Destekleme"},
+        {"label": "B", "text": "Okul Temelli Planlama"},
+        {"label": "C", "text": "Zenginleştirme"},
+        {"label": "D", "text": "İçerik Sadeleştirme"}
+      ],
+      "correct_index": 2,
+      "explanation": "Öğrenme hızı yüksek öğrenciler için konunun değiştirilmeden derinleştirilmesi ve soyutlaştırılması işlemine Zenginleştirme adı verilir.",
+      "difficulty": 1
+    },
+    {
+      "question_text": "TYMM'de öğrencilerin karmaşık sistemleri anlamaları ve bu sistemler arasındaki ilişkileri görebilmeleri amacıyla 'Sistem Düşüncesi' hangi beceri seti ile entegre edilmiştir?",
+      "options": [
+        {"label": "A", "text": "Okuryazarlık Becerileri"},
+        {"label": "B", "text": "Sosyal-Duygusal Öğrenme Becerileri"},
+        {"label": "C", "text": "Entelektüel Eğilimler"},
+        {"label": "D", "text": "Alan Becerileri"}
+      ],
+      "correct_index": 0,
+      "explanation": "Sistem düşüncesi, günümüzün karmaşıklığını anlama bağlamında 'Okuryazarlık Becerileri'nin bir parçası olarak ele alınmıştır.",
+      "difficulty": 2
+    },
+    {
+      "question_text": "Aşağıdakilerden hangisi TYMM'de yer alan 9 temel okuryazarlık türünden biri değildir?",
+      "options": [
+        {"label": "A", "text": "Finansal Okuryazarlık"},
+        {"label": "B", "text": "Medya Okuryazarlığı"},
+        {"label": "C", "text": "Veri Okuryazarlığı"},
+        {"label": "D", "text": "Sürdürülebilirlik Okuryazarlığı"}
+      ],
+      "correct_index": 1,
+      "explanation": "Modelde 9 tür belirlenmiştir. Medya okuryazarlığı bu temel listede ayrıca sayılmamıştır.",
+      "difficulty": 2
+    },
+    {
+      "question_text": "'Çelişkinin nerede olduğunu belirlemek, olası yolları araştırmak, uygun yolu seçerek harekete geçmek ve elde edilen çözümü değerlendirmek' süreç bileşenlerine sahip beceri hangisidir?",
+      "options": [
+        {"label": "A", "text": "Çıkarım Yapma"},
+        {"label": "B", "text": "Sorgulama"},
+        {"label": "C", "text": "Çelişki Giderme"},
+        {"label": "D", "text": "Sınıflandırma"}
+      ],
+      "correct_index": 2,
+      "explanation": "Verilen süreç bileşenleri doğrudan 'Çelişki Giderme Becerisi'nin tanımı ve alt bileşenleridir.",
+      "difficulty": 3
+    },
+    {
+      "question_text": "TYMM'ye göre 'Öğrenme Çıktıları' temel olarak hangi iki bileşenin harmanlanmasıyla oluşturulmaktadır?",
+      "options": [
+        {"label": "A", "text": "Sosyal-Duygusal Beceriler ile Eğilimler"},
+        {"label": "B", "text": "Erdemler ile Değerler"},
+        {"label": "C", "text": "Bilgi Kümeleri ile Kavramsal/Alan Becerileri"},
+        {"label": "D", "text": "Farklılaştırma Yöntemleri ile Temel Kabuller"}
+      ],
+      "correct_index": 2,
+      "explanation": "Öğrenme çıktıları, bilgi kümesinin ilişkili alan becerileri ya da kavramsal beceriler ile birleştirilmesi yoluyla oluşturulur.",
+      "difficulty": 2
+    },
+    {
+      "question_text": "Öğretmenin ve programın güçlü ve iyileştirilmesi gereken yönlerinin bizatihi öğretmenler tarafından değerlendirilmesi süreci nedir?",
+      "options": [
+        {"label": "A", "text": "Süreç Değerlendirme"},
+        {"label": "B", "text": "Öğretmen Yansıtmaları"},
+        {"label": "C", "text": "Okul Temelli Planlama"},
+        {"label": "D", "text": "Ön Değerlendirme Süreci"}
+      ],
+      "correct_index": 1,
+      "explanation": "Öğretmenlerin kendilerinin ve programın durumunu değerlendirmeleri 'Öğretmen Yansıtmaları' olarak tanımlanmıştır.",
+      "difficulty": 1
+    },
+    {
+      "question_text": "Erdem-Değer-Eylem Çerçevesinde, tüm değerlerin yoğun kesişim noktaları olan ve sistemin çatısını oluşturan üç temel değer hangisidir?",
+      "options": [
+        {"label": "A", "text": "Sevgi - Dostluk - Dürüstlük"},
+        {"label": "B", "text": "Adalet - Saygı - Sorumluluk"},
+        {"label": "C", "text": "Sabır - Tasarruf - Çalışkanlık"},
+        {"label": "D", "text": "Vatanseverlik - Merhamet - Özgürlük"}
+      ],
+      "correct_index": 1,
+      "explanation": "Erdem-Değer-Eylem Çerçevesi'nde çatı değerler; Adalet, Saygı ve Sorumluluk etrafında kümelenmiştir.",
+      "difficulty": 3
+    },
+    {
+      "question_text": "Türkiye Yüzyılı Maarif Modeli'ne göre aşağıdakilerden hangisi 'Destekleme' (Tamamlayıcı Öğrenme) yaklaşımının özelliklerinden biri olamaz?",
+      "options": [
+        {"label": "A", "text": "İleri düzeydeki öğrencilere genişletilmiş fırsatlar sunması"},
+        {"label": "B", "text": "Öğrenme eksiği olan öğrencilere yönelik olması"},
+        {"label": "C", "text": "Ek zaman ve uygun materyal desteği sağlanması"},
+        {"label": "D", "text": "İçeriğin basit ve adım adım sunulması"}
+      ],
+      "correct_index": 0,
+      "explanation": "İleri düzeydeki öğrencilere fırsatlar sunulması 'Destekleme' değil, 'Zenginleştirme' uygulamasıdır.",
+      "difficulty": 1
+    },
+    {
+      "question_text": "Becerilerin öğrenilmesini kolaylaştırıp eyleme geçmesini tetikleyen zihinsel örüntüler kavramı aşağıdakilerden hangisidir?",
+      "options": [
+        {"label": "A", "text": "Temel Kabuller"},
+        {"label": "B", "text": "Okuryazarlık"},
+        {"label": "C", "text": "Eğilimler"},
+        {"label": "D", "text": "Öğrenme Kanıtları"}
+      ],
+      "correct_index": 2,
+      "explanation": "Eğilimler, becerileri tetikleyici, öğrenmeyi kolaylaştırıcı rol üstlenen kavramdır.",
+      "difficulty": 2
+    },
+    {
+      "question_text": "İnsanın kendisi dahil tüm varlıkların varoluşunun değerini bir bütünlük içinde kavraması hangi anlayışın temel hedefidir?",
+      "options": [
+        {"label": "A", "text": "Kariyer Odaklı Eğitim"},
+        {"label": "B", "text": "Sistem Düşüncesi Eğitimi"},
+        {"label": "C", "text": "Bireyselleştirilmiş Öğretim"},
+        {"label": "D", "text": "Bütüncül Eğitim Yaklaşımı"}
+      ],
+      "correct_index": 3,
+      "explanation": "Bütüncül eğitim yaklaşımının hedefi insanı ontolojik bütünlükle yetiştirip hayatı anlamlı kılmaktır.",
+      "difficulty": 1
+    },
+    {
+      "question_text": "Öğrencinin kendisi ve çevresi ile olumlu ilişkiler kurabilmesi hangi bileşenin ana odak noktasıdır?",
+      "options": [
+        {"label": "A", "text": "Erdem-Değer-Eylem Çerçevesi"},
+        {"label": "B", "text": "Sosyal-Duygusal Öğrenme Becerileri"},
+        {"label": "C", "text": "Entelektüel Eğilimler"},
+        {"label": "D", "text": "Alan Becerileri"}
+      ],
+      "correct_index": 1,
+      "explanation": "Duyguları yönetmek ve sağlıklı ilişkiler geliştirmek Sosyal-Duygusal Öğrenme Becerilerinin tanımıdır.",
+      "difficulty": 1
+    },
+    {
+      "question_text": "Bilgi toplamak, ortak özellikleri belirlemek ve örüntüler üzerinden önermede bulunmak süreç bileşenleri hangi beceridir?",
+      "options": [
+        {"label": "A", "text": "Çıkarım Yapma"},
+        {"label": "B", "text": "Karşılaştırma"},
+        {"label": "C", "text": "Genelleme"},
+        {"label": "D", "text": "Sentezleme"}
+      ],
+      "correct_index": 2,
+      "explanation": "Verilen süreç adımları doğrudan KB2.9 'Genelleme Becerisi'nin süreç bileşenleridir.",
+      "difficulty": 3
+    },
+    {
+      "question_text": "Öğrencilerin yeni ünite öğrenimleri için önceden sahip olduğu düşünülen ön öğrenmeler ne adla ifade edilir?",
+      "options": [
+        {"label": "A", "text": "Fiziki materyaller"},
+        {"label": "B", "text": "Sınav standartları"},
+        {"label": "C", "text": "Temel Kabuller"},
+        {"label": "D", "text": "Köprü Kurma"}
+      ],
+      "correct_index": 2,
+      "explanation": "Temel kabuller, öğrencilerin ünite ile ilgili bildiği kabul edilen ön öğrenmeleridir.",
+      "difficulty": 2
+    },
+    {
+      "question_text": "Maarif Modeli'ndeki 'Ölçme ve Değerlendirme' mantığına göre aşağıdakilerden hangisi yanlıştır?",
+      "options": [
+        {"label": "A", "text": "Geri bildirim sağlayan bir yapıda olmalıdır."},
+        {"label": "B", "text": "Biçimlendirici ölçme önceliğimizdir."},
+        {"label": "C", "text": "Beceri gelişimini çok boyutlu izlemeliyiz."},
+        {"label": "D", "text": "Yarıştıran kesin sonuçlu sınavlara ağırlık vermeliyiz."}
+      ],
+      "correct_index": 3,
+      "explanation": "TYMM yarıştırıcı ve ayrıştırıcı anlayışlardan uzak durur; süreç temelli ölçmeyi savunur.",
+      "difficulty": 1
+    },
+    {
+      "question_text": "Benlik, Sosyal ve Entelektüel olarak sınıflandırılan yapı hangisidir?",
+      "options": [
+        {"label": "A", "text": "Sosyal-Duygusal Öğrenme"},
+        {"label": "B", "text": "Eğilimler"},
+        {"label": "C", "text": "Okuryazarlık Türleri"},
+        {"label": "D", "text": "Temel Beceriler"}
+      ],
+      "correct_index": 1,
+      "explanation": "Eğilimler, modelde becerileri destekleyen yapılar olarak 3 ana kategoride tasnif edilmiştir.",
+      "difficulty": 1
+    },
+    {
+      "question_text": "Sosyal Bilimler Alan Becerileri kapsamında, 'Karşılaştırmaya ilişkin yargıda bulunmak' hangi becerinin bileşenidir?",
+      "options": [
+        {"label": "A", "text": "Dönüştürme"},
+        {"label": "B", "text": "Sıralama"},
+        {"label": "C", "text": "Karşılaştırma"},
+        {"label": "D", "text": "Değerlendirme"}
+      ],
+      "correct_index": 3,
+      "explanation": "Yargıda bulunmak doğrudan 'Değerlendirme' bütünleşik becerisinin süreç bileşenidir.",
+      "difficulty": 3
+    },
+    {
+      "question_text": "Saymak, okumak, yazmak gibi karmaşık bir zihinsel süreç gerektirmeyen eylemlere ne ad verilir?",
+      "options": [
+        {"label": "A", "text": "Fiziksel Beceriler"},
+        {"label": "B", "text": "Temel Beceriler"},
+        {"label": "C", "text": "Üst Düzey Beceriler"},
+        {"label": "D", "text": "Sosyal Beceriler"}
+      ],
+      "correct_index": 1,
+      "explanation": "Basit ve gözlenebilir eylemler 'Temel Beceriler' olarak sınıflandırılır.",
+      "difficulty": 1
+    },
+    {
+      "question_text": "Problemi yapılandırmak ve önermeler üzerinden akıl yürütmek gibi süreçleri kapsayan beceri hangisidir?",
+      "options": [
+        {"label": "A", "text": "Karar Verme"},
+        {"label": "B", "text": "Mantıksal Denetleme"},
+        {"label": "C", "text": "Problem Çözme"},
+        {"label": "D", "text": "Eleştirel Düşünme"}
+      ],
+      "correct_index": 2,
+      "explanation": "Verilen süreç bileşenleri doğrudan Problem Çözme becerisini tanımlamaktadır.",
+      "difficulty": 2
+    },
+    {
+      "question_text": "Eğitimcilerin kendi öğrenme yaşantılarını tasarlamasına imkan veren esnek program ögesi hangisidir?",
+      "options": [
+        {"label": "A", "text": "Okul Temelli Planlama"},
+        {"label": "B", "text": "Merkezi Disiplin Çerçevesi"},
+        {"label": "C", "text": "Temel Kabuller"},
+        {"label": "D", "text": "Köprü Kurma"}
+      ],
+      "correct_index": 0,
+      "explanation": "Programın yerel ihtiyaçlara göre uyarlanması 'Okul Temelli Planlama' başlığında ele alınmıştır.",
+      "difficulty": 2
+    },
+    {
+      "question_text": "Erdem-Değer-Eylem modelinin sonuç basamaklarında hedeflenen 3 ana duruştan biri hangisidir?",
+      "options": [
+        {"label": "A", "text": "Rekabetçi Toplum"},
+        {"label": "B", "text": "Teknoloji Tüketicisi Çevre"},
+        {"label": "C", "text": "Yaşanabilir Çevre"},
+        {"label": "D", "text": "Sınırlandırılmış İnsan"}
+      ],
+      "correct_index": 2,
+      "explanation": "Erdem-Değer-Eylem Çerçevesi'nin nihai hedefleri 'Huzurlu İnsan', 'Huzurlu Aile' ve 'Yaşanabilir Çevre'dir.",
+      "difficulty": 2
+    }
+  ]
+}

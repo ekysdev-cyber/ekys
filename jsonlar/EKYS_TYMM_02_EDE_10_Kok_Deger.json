@@ -1,0 +1,385 @@
+{
+"subtopic_slug": "[SLUG]",
+"subtopic_title": "[BASLIK]",
+"summary": {
+"title": "TYMM — Erdem-Değer-Eylem Çerçevesi (10 Kök Değer)",
+"body_md": "## Temel Kavramlar ve Tanımlar\n\n* **Türkiye Yüzyılı Maarif Modeli (TYMM):** Bütün ideolojilerin üstünde millî bir şahsiyet inşa etmeyi ve ahlaklı, erdemli, bilge nesiller yetiştirmeyi hedefleyen bütüncül eğitim modelidir.\n* **Erdem-Değer-Eylem (EDE) Çerçevesi:** Öğrencileri erdemlere ulaştıran değerleri ve bu değerlerin gözlemlenebilir davranışlar olan eylemlere dönüşmesini sağlayan, programlar arası yapılandırılmış çerçevedir.\n* **Kök Değerler:** Adalet, dostluk, dürüstlük, öz denetim, sabır, saygı, sevgi, sorumluluk, vatanseverlik ve yardımseverlikten oluşan 10 temel değerdir.\n* **Çatı Değerler:** Adalet, Saygı ve Sorumluluk.\n\n## Önemli Mevzuat ve Etik İlkeler\n\n* **5176 Sayılı Kanun:** Kamu görevlilerinin hediye alma yasağı ve etik davranış ilkelerini düzenler.\n* **Çocuğun Yüksek Yararı:** Etik ikilemlerde mevzuattan sonra gelen en temel referans noktasıdır.\n* **Kapsayıcı Eğitim:** 5378 Sayılı Kanun gereği engelli bireylerin haklarının gözetilmesi yasal zorunluluktur.\n\n## Sınav İçin Kritik Noktalar\n\n* **Soru Ağırlığı:** 2026 EKYS'de %30 ağırlık (24 soru) ile en belirleyici alandır.\n* **Etik İkilem Çözüm Sırası:** 1. Mevzuat, 2. Çocuğun yüksek yararı, 3. Kurumsal etik çerçevesi.\n* **Nihai Hedef:** 'Yetkin ve Erdemli İnsan' yetiştirmek; 'Huzurlu İnsan', 'Huzurlu Aile ve Toplum' ve 'Yaşanabilir Çevre' oluşturmaktır.\n* **Örtük Program:** Okul iklimi ve öğretmen rol modelliği ile değerlerin yaşantısal olarak kazanılmasıdır."
+},
+"audio_url": null,
+"flashcards": [
+{
+"front_text": "2026 EKYS'de Türkiye Yüzyılı Maarif Modeli'nden (TYMM) toplam kaç soru sorulması planlanmaktadır?",
+"body_md": "Toplam 24 soru sorulacaktır. Bu sayı sınavın %30'luk dilimini oluşturarak en ağırlıklı konuyu teşkil eder.",
+"difficulty": 1,
+"order_index": 0
+},
+{
+"front_text": "TYMM Erdem-Değer-Eylem (EDE) Çerçevesi'nde yer alan 3 'Çatı Değer' hangileridir?",
+"body_md": "Adalet, Saygı ve Sorumluluk.",
+"difficulty": 1,
+"order_index": 1
+},
+{
+"front_text": "TYMM'nin hedeflediği 'Yetkin ve Erdemli İnsan' profilini oluşturan temel bütünlük alanlarından 'Ruh ve Beden Bütünlüğü' hangi kavramla ifade edilir?",
+"body_md": "Ontolojik Bütünlük.",
+"difficulty": 2,
+"order_index": 2
+},
+{
+"front_text": "Okul yöneticilerinin hediye almasını yasaklayan ve çıkar çatışmalarını yönetmelerini gerektiren kanun hangisidir?",
+"body_md": "5176 sayılı Kamu Görevlileri Etik Kurulu Kanunu.",
+"difficulty": 2,
+"order_index": 3
+},
+{
+"front_text": "Bir okul yöneticisi etik bir ikilemle karşılaştığında karar verirken ilk olarak neyi referans almalıdır?",
+"body_md": "İlk olarak Mevzuat kurallarını, ardından 'çocuğun yüksek yararı' ilkesini referans almalıdır.",
+"difficulty": 2,
+"order_index": 4
+},
+{
+"front_text": "MEB EDE Çerçevesi değerleri hangi üç ana alan altında sınıflandırmıştır?",
+"body_md": "1. Huzurlu İnsan, 2. Huzurlu Aile ve Toplum, 3. Yaşanabilir Çevre.",
+"difficulty": 2,
+"order_index": 5
+},
+{
+"front_text": "Tasarruf, Sabır, Mahremiyet, Mütevazılık, Sağlıklı Yaşam ve Çalışkanlık değerleri hangi ana alanın içinde yer alır?",
+"body_md": "Huzurlu İnsan alanında yer alır.",
+"difficulty": 3,
+"order_index": 6
+},
+{
+"front_text": "Okul ikliminden ve öğretmenin tutumlarından yazılı olmayan şekilde edinilen değerler hangi program türüyle açıklanır?",
+"body_md": "Örtük Program (Hidden Curriculum).",
+"difficulty": 2,
+"order_index": 7
+},
+{
+"front_text": "Değerler eğitimi ile karakter eğitimi arasındaki temel felsefi fark nedir?",
+"body_md": "Değerler eğitimi dışarıdan değer eklemeyi hedeflerken, karakter eğitimi bireyin doğuştan var olan özelliklerini geliştirmeyi hedefler.",
+"difficulty": 3,
+"order_index": 8
+},
+{
+"front_text": "TYMM'de etiğin ve estetik değer yargılarının olgunlaşmasını ifade eden kavram hangisidir?",
+"body_md": "Aksiyolojik Olgunluk (Ahlaki Bilinç ve Estetik Bakış Açısı).",
+"difficulty": 3,
+"order_index": 9
+},
+{
+"front_text": "Okul yöneticisinin kişisel yakınlık gözetmeksizin işlem yapması hangi etik ilkenin gereğidir?",
+"body_md": "Tarafsızlık (Kayırmacılıktan kaçınma / Adalet).",
+"difficulty": 1,
+"order_index": 10
+},
+{
+"front_text": "TYMM Öğretim Programlarında değerler ayrı bir ders olarak mı işlenir?",
+"body_md": "Ayrı bir ders olarak değil; 'programlar arası bileşenler' olarak diğer içeriklerle bütünleşik ve sarmal bir yapıda işlenir.",
+"difficulty": 1,
+"order_index": 11
+}
+],
+"questions": [
+{
+"question_text": "2026 EKYS konu dağılımı dikkate alındığında, aşağıdaki konu başlıklarından hangisi sınavda %30'luk ağırlığa sahip olarak en belirleyici alan konumundadır?",
+"options": [
+{"label": "A", "text": "Genel Kültür"},
+{"label": "B", "text": "Mevzuat"},
+{"label": "C", "text": "Eğitim Bilimleri"},
+{"label": "D", "text": "Türkiye Yüzyılı Maarif Modeli"}
+],
+"correct_index": 3,
+"explanation": "2026 EKYS konu dağılımına göre Türkiye Yüzyılı Maarif Modeli %30 ağırlıkla (24 soru) sınavda en çok soru çıkan alandır.",
+"difficulty": 1
+},
+{
+"question_text": "TYMM Erdem-Değer-Eylem Çerçevesi'nde değerler, katkı sağladıkları etki alanlarına göre üç ana kümeye ayrılmıştır. Aşağıdakilerden hangisi bu üç ana kümeden biri değildir?",
+"options": [
+{"label": "A", "text": "Yaşanabilir Çevre"},
+{"label": "B", "text": "Huzurlu İnsan"},
+{"label": "C", "text": "Huzurlu Aile ve Toplum"},
+{"label": "D", "text": "Küresel Vatandaşlık"}
+],
+"correct_index": 3,
+"explanation": "EDE Çerçevesi'nde değerler 'Huzurlu İnsan', 'Huzurlu Aile ve Toplum' ve 'Yaşanabilir Çevre' olmak üzere üç ana alanda kümelenmiştir.",
+"difficulty": 1
+},
+{
+"question_text": "Okul müdürü Ahmet Bey'in aldığı kararların gerekçelerini açıkça paydaşlara duyurması hangi etik ilkeyle doğrudan ilgilidir?",
+"options": [
+{"label": "A", "text": "Gizlilik"},
+{"label": "B", "text": "Şeffaflık"},
+{"label": "C", "text": "Tarafsızlık"},
+{"label": "D", "text": "Profesyonellik"}
+],
+"correct_index": 1,
+"explanation": "Kararları gerekçelendirme ve bilgiye erişimi kolaylaştırma, yönetimde 'Şeffaflık' etik ilkesinin bir gereğidir.",
+"difficulty": 1
+},
+{
+"question_text": "TYMM'nin nihai hedefi olan 'Yetkin ve Erdemli İnsan' profilinde, 'Ruh ve Beden Bütünlüğü' hangi kavramla ifade edilmektedir?",
+"options": [
+{"label": "A", "text": "Ontolojik Bütünlük"},
+{"label": "B", "text": "Epistemolojik Bütünlük"},
+{"label": "C", "text": "Zamansal Bütünlük"},
+{"label": "D", "text": "Aksiyolojik Olgunluk"}
+],
+"correct_index": 0,
+"explanation": "Modelde insanın beden ve ruh sağlığı yönünden bütüncül gelişimi 'Ontolojik Bütünlük' kavramıyla tanımlanır.",
+"difficulty": 1
+},
+{
+"question_text": "EDE Çerçevesi'nde 'Çatı Değerler' olarak adlandırılan üç temel değer hangisidir?",
+"options": [
+{"label": "A", "text": "Sevgi - Saygı - Hoşgörü"},
+{"label": "B", "text": "Adalet - Saygı - Sorumluluk"},
+{"label": "C", "text": "Dürüstlük - Sabır - Vatanseverlik"},
+{"label": "D", "text": "Çalışkanlık - Adalet - Özgürlük"}
+],
+"correct_index": 1,
+"explanation": "Modelde saygı, sorumluluk ve adalet diğer değerleri de kapsayan 'çatı değerler' olarak belirlenmiştir.",
+"difficulty": 1
+},
+{
+"question_text": "Öğretmenin gizli hastalığını korurken eğitimin aksamasını önleyen bir müdürün tutumu hangi etik dengeyi yansıtır?",
+"options": [
+{"label": "A", "text": "Şeffaflık"},
+{"label": "B", "text": "Disiplin odaklılık"},
+{"label": "C", "text": "Gizlilik ve Mevzuata uygun esneklik"},
+{"label": "D", "text": "İdari yetki kullanımı"}
+],
+"correct_index": 2,
+"explanation": "Yönetici, öğretmenin mahremiyet hakkını korurken öğrencilerin eğitim hakkını güvence altına alacak mevzuata uygun çözümü bulmalıdır.",
+"difficulty": 2
+},
+{
+"question_text": "Kısıtlı bütçeyle spor salonu yerine engelli rampasını öncelikle yapmak hangi ilke ve değere dayanır?",
+"options": [
+{"label": "A", "text": "Şeffaflık"},
+{"label": "B", "text": "Kapsayıcı eğitim (Yasal zorunluluk) ve Adalet"},
+{"label": "C", "text": "Okul-Aile işbirliği"},
+{"label": "D", "text": "Demokratik katılım"}
+],
+"correct_index": 1,
+"explanation": "Engelli erişimi 5378 sayılı kanunla yasal zorunluluktur ve eğitimde fırsat eşitliğini (adalet) yansıtır.",
+"difficulty": 2
+},
+{
+"question_text": "Aşağıdakilerden hangisi 'Yetkin ve Erdemli İnsan' profilinin 10 ana özelliğinden biri değildir?",
+"options": [
+{"label": "A", "text": "Sorgulayıcı"},
+{"label": "B", "text": "Üretken"},
+{"label": "C", "text": "İtaatkar"},
+{"label": "D", "text": "İradeli"}
+],
+"correct_index": 2,
+"explanation": "Öğrenci profilinde ahlaklı, bilge, cesaretli, iradeli gibi özellikler bulunur; itaatkar olmak bu profilde yer almaz.",
+"difficulty": 1
+},
+{
+"question_text": "Değerlerin tüm programın içine yedirilerek işlenmesine modelde ne ad verilmektedir?",
+"options": [
+{"label": "A", "text": "Program Dışı Etkinlik"},
+{"label": "B", "text": "Programlar Arası Bileşenler (Kaynaşık yapı)"},
+{"label": "C", "text": "Okul Temelli Planlama"},
+{"label": "D", "text": "Epistemik Bilgi Süreci"}
+],
+"correct_index": 1,
+"explanation": "Değerler, 'programlar arası bileşenler' başlığı altında diğer becerilerle kaynaşık şekilde işlenir.",
+"difficulty": 2
+},
+{
+"question_text": "Okul yöneticisinin şahsi hediye kabul etmemesi hangi mevzuatla doğrudan ilişkilidir?",
+"options": [
+{"label": "A", "text": "1739 Sayılı Kanun"},
+{"label": "B", "text": "657 Sayılı Kanun"},
+{"label": "C", "text": "5176 Sayılı Kamu Görevlileri Etik Kurulu Kanunu"},
+{"label": "D", "text": "5018 Sayılı Kanun"}
+],
+"correct_index": 2,
+"explanation": "Kamu görevlilerinin hediye alma yasağı ve etik davranış ilkeleri 5176 sayılı Kanun ile düzenlenir.",
+"difficulty": 1
+},
+{
+"question_text": "TYMM kapsamında 'Zamansal Bütünlük' kavramı neyi ifade etmektedir?",
+"options": [
+{"label": "A", "text": "Ders saati ayarlarını"},
+{"label": "B", "text": "Eş zamanlı gelişimi"},
+{"label": "C", "text": "Eğitimin kültürel mirası geleceğe taşıyan hayat boyu bir süreç olmasını"},
+{"label": "D", "text": "Zaman yönetimi becerisini"}
+],
+"correct_index": 2,
+"explanation": "Zamansal bütünlük, eğitimin tarihsel tecrübeyi kapsayarak hayat boyu sürmesini ifade eder.",
+"difficulty": 2
+},
+{
+"question_text": "Okul iklimi ve öğretmen davranışlarıyla kazanılan değerler hangi kavramla açıklanır?",
+"options": [
+{"label": "A", "text": "Okul Temelli Planlama"},
+{"label": "B", "text": "Örtük Program (İnformal eğitim)"},
+{"label": "C", "text": "Sosyal Sorumluluk"},
+{"label": "D", "text": "Disiplinler Arası İlişki"}
+],
+"correct_index": 1,
+"explanation": "Yazılı programda yer almayan ancak okul iklimiyle kazanılan değerler 'örtük program' ile açıklanır.",
+"difficulty": 2
+},
+{
+"question_text": "'Tasarruf' değeri, EDE çerçevesinde hangi küme içerisine yerleştirilmiştir?",
+"options": [
+{"label": "A", "text": "Huzurlu İnsan"},
+{"label": "B", "text": "Huzurlu Aile ve Toplum"},
+{"label": "C", "text": "Yaşanabilir Çevre"},
+{"label": "D", "text": "Dijital Okuryazarlık"}
+],
+"correct_index": 0,
+"explanation": "Tasarruf kişisel bir gelişim alanı olarak 'Huzurlu İnsan' kümesinde yer alır.",
+"difficulty": 3
+},
+{
+"question_text": "'Ekosistemi korumak için atık yönetimini önemser' eylemi hangi değerin alt eylemidir?",
+"options": [
+{"label": "A", "text": "Tasarruf"},
+{"label": "B", "text": "Temizlik"},
+{"label": "C", "text": "Merhamet"},
+{"label": "D", "text": "Mütevazılık"}
+],
+"correct_index": 1,
+"explanation": "Çevresel temizlik ve sürdürülebilirlik 'Temizlik' değeri kapsamındadır.",
+"difficulty": 3
+},
+{
+"question_text": "Erdem Temelli Yaklaşım benimseyen bir okul müdürünün nihai amacı nedir?",
+"options": [
+{"label": "A", "text": "Sadece sınav başarısı"},
+{"label": "B", "text": "Dışsal disiplin"},
+{"label": "C", "text": "Değerleri içselleştirmiş, ahlaklı ve erdemli bireyler yetiştirmek"},
+{"label": "D", "text": "Okul istatistiklerini artırmak"}
+],
+"correct_index": 2,
+"explanation": "Erdem temelli yaklaşım, değerleri davranışa dönüştüren ahlaklı bireyler yetiştirmeyi amaçlar.",
+"difficulty": 2
+},
+{
+"question_text": "Kendini tanımak ve kibirden kaçınmak hangi değere aittir?",
+"options": [
+{"label": "A", "text": "Dürüstlük"},
+{"label": "B", "text": "Özgürlük"},
+{"label": "C", "text": "Mütevazılık"},
+{"label": "D", "text": "Sabır"}
+],
+"correct_index": 2,
+"explanation": "Kendini bilmek ve kibirden uzak durmak 'Mütevazılık' değerinin göstergeleridir.",
+"difficulty": 3
+},
+{
+"question_text": "Ali'nin arkadaşı için gizlice dayanışma fonu oluşturması hangi kök değerle ilgilidir?",
+"options": [
+{"label": "A", "text": "Yardımseverlik"},
+{"label": "B", "text": "Dostluk"},
+{"label": "C", "text": "Sabır"},
+{"label": "D", "text": "Adalet"}
+],
+"correct_index": 0,
+"explanation": "Maddi paylaşım ve fedakarlık göstermek 'Yardımseverlik' değerinin eylemleridir.",
+"difficulty": 2
+},
+{
+"question_text": "Söz almak için parmak kaldırıp bekleyen öğrenci hangi değerleri sergiler?",
+"options": [
+{"label": "A", "text": "Tasarruf ve Mahremiyet"},
+{"label": "B", "text": "Sabır ve Saygı"},
+{"label": "C", "text": "Vatanseverlik ve Merhamet"},
+{"label": "D", "text": "Özgürlük ve Çalışkanlık"}
+],
+"correct_index": 1,
+"explanation": "Söz kesmemek 'Saygı', bekleme sürecini yönetmek 'Sabır' ile ilgilidir.",
+"difficulty": 2
+},
+{
+"question_text": "Etik ikilem sorularında uygulanması gereken sıralama hangisidir?",
+"options": [
+{"label": "A", "text": "Vicdan -> Yarar -> Veli"},
+{"label": "B", "text": "Mevzuat -> Çocuğun yüksek yararı -> Kurumsal etik"},
+{"label": "C", "text": "Birlik Kararı -> Kurul -> Mevzuat"},
+{"label": "D", "text": "Yarar -> Teamüller -> Vicdan"}
+],
+"correct_index": 1,
+"explanation": "Altın kural: Önce mevzuat, sonra çocuğun yararı, sonra kurumsal etiktir.",
+"difficulty": 2
+},
+{
+"question_text": "BM Sürdürülebilir Kalkınma Amaçları ile en fazla eşleşen iki değer hangisidir?",
+"options": [
+{"label": "A", "text": "Sorumluluk ve Duyarlılık"},
+{"label": "B", "text": "Aile Bütünlüğü ve Mahremiyet"},
+{"label": "C", "text": "Estetik ve Mütevazılık"},
+{"label": "D", "text": "Dostluk ve Sevgi"}
+],
+"correct_index": 0,
+"explanation": "Akademik analizlerde Sorumluluk ve Duyarlılık değerleri SKA ile en yüksek eşleşmeyi göstermiştir.",
+"difficulty": 3
+},
+{
+"question_text": "Dijital ortamlarda şifreleri paylaşmamak hangi değerle eşleşir?",
+"options": [
+{"label": "A", "text": "Dürüstlük"},
+{"label": "B", "text": "Mahremiyet"},
+{"label": "C", "text": "Temizlik"},
+{"label": "D", "text": "Saygı"}
+],
+"correct_index": 1,
+"explanation": "Kişisel bilgilerin gizliliğini korumak 'Mahremiyet' değerinin eylemidir.",
+"difficulty": 2
+},
+{
+"question_text": "Hangisi okul yöneticisinin etik rolleri arasında gösterilemez?",
+"options": [
+{"label": "A", "text": "Liyakati esas almak"},
+{"label": "B", "text": "Etik ihbar kanalları oluşturmak"},
+{"label": "C", "text": "Velilerden gelen değerli kişisel hediyeleri kabul etmek"},
+{"label": "D", "text": "Kurumsal çıkarı önceliklendirmek"}
+],
+"correct_index": 2,
+"explanation": "Yöneticilerin hediye kabul etmesi 5176 sayılı kanun gereği etik dışı ve yasaktır.",
+"difficulty": 1
+},
+{
+"question_text": "'Hırs ve azim farkını ayırmak, planlı hareket etmek' hangi değerdir?",
+"options": [
+{"label": "A", "text": "Özgürlük"},
+{"label": "B", "text": "Çalışkanlık"},
+{"label": "C", "text": "Adalet"},
+{"label": "D", "text": "Merhamet"}
+],
+"correct_index": 1,
+"explanation": "Azim ve planlılık 'Çalışkanlık' değerinin göstergeleridir.",
+"difficulty": 2
+},
+{
+"question_text": "TYMM'de becerileri tetikleyen zihinsel yatkınlıklara ne ad verilir?",
+"options": [
+{"label": "A", "text": "İlgi alanları"},
+{"label": "B", "text": "Veli tutumu"},
+{"label": "C", "text": "Eğilimler (Benlik, Sosyal ve Entelektüel)"},
+{"label": "D", "text": "Sınav istatistikleri"}
+],
+"correct_index": 2,
+"explanation": "Eğilimler, becerileri eyleme geçirmek için gereken zihinsel yatkınlıklardır.",
+"difficulty": 3
+},
+{
+"question_text": "Aşağıdakilerden hangisi 'Benlik Becerileri' boyutu altında yer alır?",
+"options": [
+{"label": "A", "text": "İletişim kurma"},
+{"label": "B", "text": "İş birliği yapma"},
+{"label": "C", "text": "Kendini düzenleme (Öz düzenleme)"},
+{"label": "D", "text": "Sosyal farkındalık"}
+],
+"correct_index": 2,
+"explanation": "Kendini tanıma ve düzenleme 'Benlik Becerileri' iken diğerleri 'Sosyal Yaşam Becerileri'dir.",
+"difficulty": 2
+}
+]
+}
