@@ -22,10 +22,12 @@ TopicModel _$TopicModelFromJson(Map<String, dynamic> json) {
 /// @nodoc
 mixin _$TopicModel {
   String get id => throw _privateConstructorUsedError;
+  @JsonKey(name: 'parent_id')
   String? get parentId => throw _privateConstructorUsedError;
   String get title => throw _privateConstructorUsedError;
   String? get description => throw _privateConstructorUsedError;
   String? get icon => throw _privateConstructorUsedError;
+  @JsonKey(name: 'order_index')
   int get orderIndex => throw _privateConstructorUsedError;
   List<SubtopicModel> get subtopics => throw _privateConstructorUsedError;
 
@@ -48,11 +50,11 @@ abstract class $TopicModelCopyWith<$Res> {
   @useResult
   $Res call({
     String id,
-    String? parentId,
+    @JsonKey(name: 'parent_id') String? parentId,
     String title,
     String? description,
     String? icon,
-    int orderIndex,
+    @JsonKey(name: 'order_index') int orderIndex,
     List<SubtopicModel> subtopics,
   });
 }
@@ -127,11 +129,11 @@ abstract class _$$TopicModelImplCopyWith<$Res>
   @useResult
   $Res call({
     String id,
-    String? parentId,
+    @JsonKey(name: 'parent_id') String? parentId,
     String title,
     String? description,
     String? icon,
-    int orderIndex,
+    @JsonKey(name: 'order_index') int orderIndex,
     List<SubtopicModel> subtopics,
   });
 }
@@ -198,11 +200,11 @@ class __$$TopicModelImplCopyWithImpl<$Res>
 class _$TopicModelImpl implements _TopicModel {
   const _$TopicModelImpl({
     required this.id,
-    this.parentId,
+    @JsonKey(name: 'parent_id') this.parentId,
     required this.title,
     this.description,
     this.icon,
-    this.orderIndex = 0,
+    @JsonKey(name: 'order_index') this.orderIndex = 0,
     final List<SubtopicModel> subtopics = const [],
   }) : _subtopics = subtopics;
 
@@ -212,6 +214,7 @@ class _$TopicModelImpl implements _TopicModel {
   @override
   final String id;
   @override
+  @JsonKey(name: 'parent_id')
   final String? parentId;
   @override
   final String title;
@@ -220,7 +223,7 @@ class _$TopicModelImpl implements _TopicModel {
   @override
   final String? icon;
   @override
-  @JsonKey()
+  @JsonKey(name: 'order_index')
   final int orderIndex;
   final List<SubtopicModel> _subtopics;
   @override
@@ -286,11 +289,11 @@ class _$TopicModelImpl implements _TopicModel {
 abstract class _TopicModel implements TopicModel {
   const factory _TopicModel({
     required final String id,
-    final String? parentId,
+    @JsonKey(name: 'parent_id') final String? parentId,
     required final String title,
     final String? description,
     final String? icon,
-    final int orderIndex,
+    @JsonKey(name: 'order_index') final int orderIndex,
     final List<SubtopicModel> subtopics,
   }) = _$TopicModelImpl;
 
@@ -300,6 +303,7 @@ abstract class _TopicModel implements TopicModel {
   @override
   String get id;
   @override
+  @JsonKey(name: 'parent_id')
   String? get parentId;
   @override
   String get title;
@@ -308,6 +312,7 @@ abstract class _TopicModel implements TopicModel {
   @override
   String? get icon;
   @override
+  @JsonKey(name: 'order_index')
   int get orderIndex;
   @override
   List<SubtopicModel> get subtopics;
@@ -327,9 +332,11 @@ SubtopicModel _$SubtopicModelFromJson(Map<String, dynamic> json) {
 /// @nodoc
 mixin _$SubtopicModel {
   String get id => throw _privateConstructorUsedError;
+  @JsonKey(name: 'topic_id')
   String get topicId => throw _privateConstructorUsedError;
   String get title => throw _privateConstructorUsedError;
   String get slug => throw _privateConstructorUsedError;
+  @JsonKey(name: 'order_index')
   int get orderIndex => throw _privateConstructorUsedError;
 
   /// Serializes this SubtopicModel to a JSON map.
@@ -351,10 +358,10 @@ abstract class $SubtopicModelCopyWith<$Res> {
   @useResult
   $Res call({
     String id,
-    String topicId,
+    @JsonKey(name: 'topic_id') String topicId,
     String title,
     String slug,
-    int orderIndex,
+    @JsonKey(name: 'order_index') int orderIndex,
   });
 }
 
@@ -418,10 +425,10 @@ abstract class _$$SubtopicModelImplCopyWith<$Res>
   @useResult
   $Res call({
     String id,
-    String topicId,
+    @JsonKey(name: 'topic_id') String topicId,
     String title,
     String slug,
-    int orderIndex,
+    @JsonKey(name: 'order_index') int orderIndex,
   });
 }
 
@@ -477,10 +484,10 @@ class __$$SubtopicModelImplCopyWithImpl<$Res>
 class _$SubtopicModelImpl implements _SubtopicModel {
   const _$SubtopicModelImpl({
     required this.id,
-    required this.topicId,
+    @JsonKey(name: 'topic_id') required this.topicId,
     required this.title,
     required this.slug,
-    this.orderIndex = 0,
+    @JsonKey(name: 'order_index') this.orderIndex = 0,
   });
 
   factory _$SubtopicModelImpl.fromJson(Map<String, dynamic> json) =>
@@ -489,13 +496,14 @@ class _$SubtopicModelImpl implements _SubtopicModel {
   @override
   final String id;
   @override
+  @JsonKey(name: 'topic_id')
   final String topicId;
   @override
   final String title;
   @override
   final String slug;
   @override
-  @JsonKey()
+  @JsonKey(name: 'order_index')
   final int orderIndex;
 
   @override
@@ -538,10 +546,10 @@ class _$SubtopicModelImpl implements _SubtopicModel {
 abstract class _SubtopicModel implements SubtopicModel {
   const factory _SubtopicModel({
     required final String id,
-    required final String topicId,
+    @JsonKey(name: 'topic_id') required final String topicId,
     required final String title,
     required final String slug,
-    final int orderIndex,
+    @JsonKey(name: 'order_index') final int orderIndex,
   }) = _$SubtopicModelImpl;
 
   factory _SubtopicModel.fromJson(Map<String, dynamic> json) =
@@ -550,12 +558,14 @@ abstract class _SubtopicModel implements SubtopicModel {
   @override
   String get id;
   @override
+  @JsonKey(name: 'topic_id')
   String get topicId;
   @override
   String get title;
   @override
   String get slug;
   @override
+  @JsonKey(name: 'order_index')
   int get orderIndex;
 
   /// Create a copy of SubtopicModel

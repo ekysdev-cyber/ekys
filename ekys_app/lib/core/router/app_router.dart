@@ -24,6 +24,7 @@ import '../../shared/models/content_item_model.dart';
 
 // Quiz & Exam (Sınav) Ekranları
 import '../../features/quiz/presentation/quiz_screen.dart';
+import '../../features/quiz/presentation/past_exams_screen.dart';
 import '../../features/exam/presentation/exam_screen.dart';
 
 // İleride oluşturacağımız ekranlar için placeholder
@@ -58,6 +59,16 @@ class TestsMenuScreen extends StatelessWidget {
               subtitle: const Text('Süre: 150 Dakika'),
               trailing: const Icon(Icons.play_arrow),
               onTap: () => context.push('/tests/exam'),
+            ),
+          ),
+          const SizedBox(height: 12),
+          Card(
+            child: ListTile(
+              leading: const Icon(Icons.history_edu),
+              title: const Text('Çıkmış Sorular'),
+              subtitle: const Text('Geçmiş yıllara ait EKYS soruları'),
+              trailing: const Icon(Icons.arrow_forward_ios, size: 16),
+              onTap: () => context.push('/tests/past-exams'),
             ),
           ),
           const SizedBox(height: 16),
@@ -189,11 +200,15 @@ final routerProvider = Provider<GoRouter>((ref) {
                 builder: (context, state) => const ExamScreen(),
               ),
               GoRoute(
+                path: 'past-exams',
+                name: 'past_exams',
+                builder: (context, state) => const PastExamsScreen(),
+              ),
+              GoRoute(
                 path: 'quiz/:subtopicId',
                 name: 'quiz',
                 builder: (context, state) {
                   final subId = state.pathParameters['subtopicId']!;
-                  // Extra'dan title alabiliriz veya varsayılan atayabiliriz
                   final title = state.extra as String? ?? 'Konu Testi';
                   return QuizScreen(subtopicId: subId, title: title);
                 },

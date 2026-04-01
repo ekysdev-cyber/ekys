@@ -83,6 +83,27 @@ class AuthNotifier extends StateNotifier<AuthState> {
     }
   }
 
+  Future<bool> guestSignIn() async {
+    state = state.copyWith(isLoading: true, clearError: true);
+    try {
+      final res = await _supabase.signInAnonymously();
+      state = state.copyWith(isLoading: false, user: res.user);
+      return true;
+    } on AuthException catch (e) {
+      state = state.copyWith(
+        isLoading: false,
+        error: AuthFailure(e.message),
+      );
+      return false;
+    } catch (e) {
+      state = state.copyWith(
+        isLoading: false,
+        error: AuthFailure('Misafir girişi yapılamadı: $e'),
+      );
+      return false;
+    }
+  }
+
   Future<void> signOut() async {
     state = state.copyWith(isLoading: true);
     await _supabase.signOut();

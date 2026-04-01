@@ -7,12 +7,13 @@ part 'question_model.g.dart';
 class QuestionModel with _$QuestionModel {
   const factory QuestionModel({
     required String id,
-    required String subtopicId,
-    required String questionText,
+    @JsonKey(name: 'subtopic_id') required String subtopicId,
+    @JsonKey(name: 'question_text') required String questionText,
     required List<OptionModel> options,
-    required int correctIndex,
+    @JsonKey(name: 'correct_index') required int correctIndex,
     String? explanation,
     @Default(1) int difficulty,
+    String? source,
   }) = _QuestionModel;
 
   factory QuestionModel.fromJson(Map<String, dynamic> json) =>

@@ -7,11 +7,11 @@ part 'topic_model.g.dart';
 class TopicModel with _$TopicModel {
   const factory TopicModel({
     required String id,
-    String? parentId,
+    @JsonKey(name: 'parent_id') String? parentId,
     required String title,
     String? description,
     String? icon,
-    @Default(0) int orderIndex,
+    @JsonKey(name: 'order_index') @Default(0) int orderIndex,
     @Default([]) List<SubtopicModel> subtopics,
   }) = _TopicModel;
 
@@ -23,10 +23,10 @@ class TopicModel with _$TopicModel {
 class SubtopicModel with _$SubtopicModel {
   const factory SubtopicModel({
     required String id,
-    required String topicId,
+    @JsonKey(name: 'topic_id') required String topicId,
     required String title,
     required String slug,
-    @Default(0) int orderIndex,
+    @JsonKey(name: 'order_index') @Default(0) int orderIndex,
   }) = _SubtopicModel;
 
   factory SubtopicModel.fromJson(Map<String, dynamic> json) =>

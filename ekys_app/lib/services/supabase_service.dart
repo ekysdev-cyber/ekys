@@ -32,6 +32,10 @@ class SupabaseService {
     await client.auth.signOut();
   }
 
+  Future<AuthResponse> signInAnonymously() async {
+    return await client.auth.signInAnonymously();
+  }
+
   // ────────────────────────────────────────────────────────
   // TOPICS (KONULAR)
   // ────────────────────────────────────────────────────────
@@ -83,5 +87,33 @@ class SupabaseService {
       'answers': answers,
       'score': score,
     });
+  }
+
+  // ────────────────────────────────────────────────────────
+  // ÇIKMIŞ SORULAR
+  // ────────────────────────────────────────────────────────
+
+  /// Çıkmış soru yıllarını döndürür (questions.source sütunu)
+  Future<List<String>> getPastExamYears() async {
+    final data = await client
+        .from('questions')
+        .select('source')
+        .not('source', 'is', null);
+
+    final Set<String> years = {};
+    for (var row in data) {
+      final src = row['source'] as String?;
+      if (src != null && src.isNotEmpty) years.add(src);
+    }
+    final sorted = years.toList()..sort((a, b) => b.compareTo(a));
+    return sorted;
+  }
+
+  /// Belirli bir yılın çıkmış sorularını döndürür
+  Future<List<Map<String, dynamic>>> getPastExamQuestions(String source) async {
+    return await client
+        .from('questions')
+        .select()
+        .eq('source', source);
   }
 }

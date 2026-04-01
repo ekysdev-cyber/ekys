@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
-import '../../../../core/constants/app_sizes.dart';
-import '../../../../shared/models/content_item_model.dart';
-import '../../../../shared/widgets/ekys_card.dart';
-import '../../../../shared/widgets/loading_skeleton.dart';
+import '../../../core/constants/app_sizes.dart';
+import '../../../shared/models/content_item_model.dart';
+import '../../../shared/widgets/ekys_card.dart';
+import '../../../shared/widgets/loading_skeleton.dart';
 import 'study_provider.dart';
 
 class StudyListScreen extends ConsumerWidget {

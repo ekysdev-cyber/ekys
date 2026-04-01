@@ -7,15 +7,15 @@ part 'content_item_model.g.dart';
 class ContentItemModel with _$ContentItemModel {
   const factory ContentItemModel({
     required String id,
-    required String subtopicId,
+    @JsonKey(name: 'subtopic_id') required String subtopicId,
     required String type, // 'summary', 'flashcard', 'audio_note'
     required String title,
-    String? bodyMd,
-    String? frontText,
-    String? audioUrl,
-    int? durationSec,
+    @JsonKey(name: 'body_md') String? bodyMd,
+    @JsonKey(name: 'front_text') String? frontText,
+    @JsonKey(name: 'audio_url') String? audioUrl,
+    @JsonKey(name: 'duration_sec') int? durationSec,
     @Default(1) int difficulty,
-    @Default(0) int orderIndex,
+    @JsonKey(name: 'order_index') @Default(0) int orderIndex,
     @Default([]) List<String> tags,
   }) = _ContentItemModel;
 

@@ -22,15 +22,21 @@ ContentItemModel _$ContentItemModelFromJson(Map<String, dynamic> json) {
 /// @nodoc
 mixin _$ContentItemModel {
   String get id => throw _privateConstructorUsedError;
+  @JsonKey(name: 'subtopic_id')
   String get subtopicId => throw _privateConstructorUsedError;
   String get type =>
       throw _privateConstructorUsedError; // 'summary', 'flashcard', 'audio_note'
   String get title => throw _privateConstructorUsedError;
+  @JsonKey(name: 'body_md')
   String? get bodyMd => throw _privateConstructorUsedError;
+  @JsonKey(name: 'front_text')
   String? get frontText => throw _privateConstructorUsedError;
+  @JsonKey(name: 'audio_url')
   String? get audioUrl => throw _privateConstructorUsedError;
+  @JsonKey(name: 'duration_sec')
   int? get durationSec => throw _privateConstructorUsedError;
   int get difficulty => throw _privateConstructorUsedError;
+  @JsonKey(name: 'order_index')
   int get orderIndex => throw _privateConstructorUsedError;
   List<String> get tags => throw _privateConstructorUsedError;
 
@@ -53,15 +59,15 @@ abstract class $ContentItemModelCopyWith<$Res> {
   @useResult
   $Res call({
     String id,
-    String subtopicId,
+    @JsonKey(name: 'subtopic_id') String subtopicId,
     String type,
     String title,
-    String? bodyMd,
-    String? frontText,
-    String? audioUrl,
-    int? durationSec,
+    @JsonKey(name: 'body_md') String? bodyMd,
+    @JsonKey(name: 'front_text') String? frontText,
+    @JsonKey(name: 'audio_url') String? audioUrl,
+    @JsonKey(name: 'duration_sec') int? durationSec,
     int difficulty,
-    int orderIndex,
+    @JsonKey(name: 'order_index') int orderIndex,
     List<String> tags,
   });
 }
@@ -156,15 +162,15 @@ abstract class _$$ContentItemModelImplCopyWith<$Res>
   @useResult
   $Res call({
     String id,
-    String subtopicId,
+    @JsonKey(name: 'subtopic_id') String subtopicId,
     String type,
     String title,
-    String? bodyMd,
-    String? frontText,
-    String? audioUrl,
-    int? durationSec,
+    @JsonKey(name: 'body_md') String? bodyMd,
+    @JsonKey(name: 'front_text') String? frontText,
+    @JsonKey(name: 'audio_url') String? audioUrl,
+    @JsonKey(name: 'duration_sec') int? durationSec,
     int difficulty,
-    int orderIndex,
+    @JsonKey(name: 'order_index') int orderIndex,
     List<String> tags,
   });
 }
@@ -251,15 +257,15 @@ class __$$ContentItemModelImplCopyWithImpl<$Res>
 class _$ContentItemModelImpl implements _ContentItemModel {
   const _$ContentItemModelImpl({
     required this.id,
-    required this.subtopicId,
+    @JsonKey(name: 'subtopic_id') required this.subtopicId,
     required this.type,
     required this.title,
-    this.bodyMd,
-    this.frontText,
-    this.audioUrl,
-    this.durationSec,
+    @JsonKey(name: 'body_md') this.bodyMd,
+    @JsonKey(name: 'front_text') this.frontText,
+    @JsonKey(name: 'audio_url') this.audioUrl,
+    @JsonKey(name: 'duration_sec') this.durationSec,
     this.difficulty = 1,
-    this.orderIndex = 0,
+    @JsonKey(name: 'order_index') this.orderIndex = 0,
     final List<String> tags = const [],
   }) : _tags = tags;
 
@@ -269,6 +275,7 @@ class _$ContentItemModelImpl implements _ContentItemModel {
   @override
   final String id;
   @override
+  @JsonKey(name: 'subtopic_id')
   final String subtopicId;
   @override
   final String type;
@@ -276,18 +283,22 @@ class _$ContentItemModelImpl implements _ContentItemModel {
   @override
   final String title;
   @override
+  @JsonKey(name: 'body_md')
   final String? bodyMd;
   @override
+  @JsonKey(name: 'front_text')
   final String? frontText;
   @override
+  @JsonKey(name: 'audio_url')
   final String? audioUrl;
   @override
+  @JsonKey(name: 'duration_sec')
   final int? durationSec;
   @override
   @JsonKey()
   final int difficulty;
   @override
-  @JsonKey()
+  @JsonKey(name: 'order_index')
   final int orderIndex;
   final List<String> _tags;
   @override
@@ -364,15 +375,15 @@ class _$ContentItemModelImpl implements _ContentItemModel {
 abstract class _ContentItemModel implements ContentItemModel {
   const factory _ContentItemModel({
     required final String id,
-    required final String subtopicId,
+    @JsonKey(name: 'subtopic_id') required final String subtopicId,
     required final String type,
     required final String title,
-    final String? bodyMd,
-    final String? frontText,
-    final String? audioUrl,
-    final int? durationSec,
+    @JsonKey(name: 'body_md') final String? bodyMd,
+    @JsonKey(name: 'front_text') final String? frontText,
+    @JsonKey(name: 'audio_url') final String? audioUrl,
+    @JsonKey(name: 'duration_sec') final int? durationSec,
     final int difficulty,
-    final int orderIndex,
+    @JsonKey(name: 'order_index') final int orderIndex,
     final List<String> tags,
   }) = _$ContentItemModelImpl;
 
@@ -382,22 +393,28 @@ abstract class _ContentItemModel implements ContentItemModel {
   @override
   String get id;
   @override
+  @JsonKey(name: 'subtopic_id')
   String get subtopicId;
   @override
   String get type; // 'summary', 'flashcard', 'audio_note'
   @override
   String get title;
   @override
+  @JsonKey(name: 'body_md')
   String? get bodyMd;
   @override
+  @JsonKey(name: 'front_text')
   String? get frontText;
   @override
+  @JsonKey(name: 'audio_url')
   String? get audioUrl;
   @override
+  @JsonKey(name: 'duration_sec')
   int? get durationSec;
   @override
   int get difficulty;
   @override
+  @JsonKey(name: 'order_index')
   int get orderIndex;
   @override
   List<String> get tags;

@@ -22,12 +22,16 @@ QuestionModel _$QuestionModelFromJson(Map<String, dynamic> json) {
 /// @nodoc
 mixin _$QuestionModel {
   String get id => throw _privateConstructorUsedError;
+  @JsonKey(name: 'subtopic_id')
   String get subtopicId => throw _privateConstructorUsedError;
+  @JsonKey(name: 'question_text')
   String get questionText => throw _privateConstructorUsedError;
   List<OptionModel> get options => throw _privateConstructorUsedError;
+  @JsonKey(name: 'correct_index')
   int get correctIndex => throw _privateConstructorUsedError;
   String? get explanation => throw _privateConstructorUsedError;
   int get difficulty => throw _privateConstructorUsedError;
+  String? get source => throw _privateConstructorUsedError;
 
   /// Serializes this QuestionModel to a JSON map.
   Map<String, dynamic> toJson() => throw _privateConstructorUsedError;
@@ -48,12 +52,13 @@ abstract class $QuestionModelCopyWith<$Res> {
   @useResult
   $Res call({
     String id,
-    String subtopicId,
-    String questionText,
+    @JsonKey(name: 'subtopic_id') String subtopicId,
+    @JsonKey(name: 'question_text') String questionText,
     List<OptionModel> options,
-    int correctIndex,
+    @JsonKey(name: 'correct_index') int correctIndex,
     String? explanation,
     int difficulty,
+    String? source,
   });
 }
 
@@ -79,6 +84,7 @@ class _$QuestionModelCopyWithImpl<$Res, $Val extends QuestionModel>
     Object? correctIndex = null,
     Object? explanation = freezed,
     Object? difficulty = null,
+    Object? source = freezed,
   }) {
     return _then(
       _value.copyWith(
@@ -110,6 +116,10 @@ class _$QuestionModelCopyWithImpl<$Res, $Val extends QuestionModel>
                 ? _value.difficulty
                 : difficulty // ignore: cast_nullable_to_non_nullable
                       as int,
+            source: freezed == source
+                ? _value.source
+                : source // ignore: cast_nullable_to_non_nullable
+                      as String?,
           )
           as $Val,
     );
@@ -127,12 +137,13 @@ abstract class _$$QuestionModelImplCopyWith<$Res>
   @useResult
   $Res call({
     String id,
-    String subtopicId,
-    String questionText,
+    @JsonKey(name: 'subtopic_id') String subtopicId,
+    @JsonKey(name: 'question_text') String questionText,
     List<OptionModel> options,
-    int correctIndex,
+    @JsonKey(name: 'correct_index') int correctIndex,
     String? explanation,
     int difficulty,
+    String? source,
   });
 }
 
@@ -157,6 +168,7 @@ class __$$QuestionModelImplCopyWithImpl<$Res>
     Object? correctIndex = null,
     Object? explanation = freezed,
     Object? difficulty = null,
+    Object? source = freezed,
   }) {
     return _then(
       _$QuestionModelImpl(
@@ -188,6 +200,10 @@ class __$$QuestionModelImplCopyWithImpl<$Res>
             ? _value.difficulty
             : difficulty // ignore: cast_nullable_to_non_nullable
                   as int,
+        source: freezed == source
+            ? _value.source
+            : source // ignore: cast_nullable_to_non_nullable
+                  as String?,
       ),
     );
   }
@@ -198,12 +214,13 @@ class __$$QuestionModelImplCopyWithImpl<$Res>
 class _$QuestionModelImpl implements _QuestionModel {
   const _$QuestionModelImpl({
     required this.id,
-    required this.subtopicId,
-    required this.questionText,
+    @JsonKey(name: 'subtopic_id') required this.subtopicId,
+    @JsonKey(name: 'question_text') required this.questionText,
     required final List<OptionModel> options,
-    required this.correctIndex,
+    @JsonKey(name: 'correct_index') required this.correctIndex,
     this.explanation,
     this.difficulty = 1,
+    this.source,
   }) : _options = options;
 
   factory _$QuestionModelImpl.fromJson(Map<String, dynamic> json) =>
@@ -212,8 +229,10 @@ class _$QuestionModelImpl implements _QuestionModel {
   @override
   final String id;
   @override
+  @JsonKey(name: 'subtopic_id')
   final String subtopicId;
   @override
+  @JsonKey(name: 'question_text')
   final String questionText;
   final List<OptionModel> _options;
   @override
@@ -224,16 +243,19 @@ class _$QuestionModelImpl implements _QuestionModel {
   }
 
   @override
+  @JsonKey(name: 'correct_index')
   final int correctIndex;
   @override
   final String? explanation;
   @override
   @JsonKey()
   final int difficulty;
+  @override
+  final String? source;
 
   @override
   String toString() {
-    return 'QuestionModel(id: $id, subtopicId: $subtopicId, questionText: $questionText, options: $options, correctIndex: $correctIndex, explanation: $explanation, difficulty: $difficulty)';
+    return 'QuestionModel(id: $id, subtopicId: $subtopicId, questionText: $questionText, options: $options, correctIndex: $correctIndex, explanation: $explanation, difficulty: $difficulty, source: $source)';
   }
 
   @override
@@ -252,7 +274,8 @@ class _$QuestionModelImpl implements _QuestionModel {
             (identical(other.explanation, explanation) ||
                 other.explanation == explanation) &&
             (identical(other.difficulty, difficulty) ||
-                other.difficulty == difficulty));
+                other.difficulty == difficulty) &&
+            (identical(other.source, source) || other.source == source));
   }
 
   @JsonKey(includeFromJson: false, includeToJson: false)
@@ -266,6 +289,7 @@ class _$QuestionModelImpl implements _QuestionModel {
     correctIndex,
     explanation,
     difficulty,
+    source,
   );
 
   /// Create a copy of QuestionModel
@@ -285,12 +309,13 @@ class _$QuestionModelImpl implements _QuestionModel {
 abstract class _QuestionModel implements QuestionModel {
   const factory _QuestionModel({
     required final String id,
-    required final String subtopicId,
-    required final String questionText,
+    @JsonKey(name: 'subtopic_id') required final String subtopicId,
+    @JsonKey(name: 'question_text') required final String questionText,
     required final List<OptionModel> options,
-    required final int correctIndex,
+    @JsonKey(name: 'correct_index') required final int correctIndex,
     final String? explanation,
     final int difficulty,
+    final String? source,
   }) = _$QuestionModelImpl;
 
   factory _QuestionModel.fromJson(Map<String, dynamic> json) =
@@ -299,17 +324,22 @@ abstract class _QuestionModel implements QuestionModel {
   @override
   String get id;
   @override
+  @JsonKey(name: 'subtopic_id')
   String get subtopicId;
   @override
+  @JsonKey(name: 'question_text')
   String get questionText;
   @override
   List<OptionModel> get options;
   @override
+  @JsonKey(name: 'correct_index')
   int get correctIndex;
   @override
   String? get explanation;
   @override
   int get difficulty;
+  @override
+  String? get source;
 
   /// Create a copy of QuestionModel
   /// with the given fields replaced by the non-null parameter values.

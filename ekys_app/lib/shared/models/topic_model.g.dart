@@ -9,11 +9,11 @@ part of 'topic_model.dart';
 _$TopicModelImpl _$$TopicModelImplFromJson(Map<String, dynamic> json) =>
     _$TopicModelImpl(
       id: json['id'] as String,
-      parentId: json['parentId'] as String?,
+      parentId: json['parent_id'] as String?,
       title: json['title'] as String,
       description: json['description'] as String?,
       icon: json['icon'] as String?,
-      orderIndex: (json['orderIndex'] as num?)?.toInt() ?? 0,
+      orderIndex: (json['order_index'] as num?)?.toInt() ?? 0,
       subtopics:
           (json['subtopics'] as List<dynamic>?)
               ?.map((e) => SubtopicModel.fromJson(e as Map<String, dynamic>))
@@ -24,28 +24,28 @@ _$TopicModelImpl _$$TopicModelImplFromJson(Map<String, dynamic> json) =>
 Map<String, dynamic> _$$TopicModelImplToJson(_$TopicModelImpl instance) =>
     <String, dynamic>{
       'id': instance.id,
-      'parentId': instance.parentId,
+      'parent_id': instance.parentId,
       'title': instance.title,
       'description': instance.description,
       'icon': instance.icon,
-      'orderIndex': instance.orderIndex,
+      'order_index': instance.orderIndex,
       'subtopics': instance.subtopics,
     };
 
 _$SubtopicModelImpl _$$SubtopicModelImplFromJson(Map<String, dynamic> json) =>
     _$SubtopicModelImpl(
       id: json['id'] as String,
-      topicId: json['topicId'] as String,
+      topicId: json['topic_id'] as String,
       title: json['title'] as String,
       slug: json['slug'] as String,
-      orderIndex: (json['orderIndex'] as num?)?.toInt() ?? 0,
+      orderIndex: (json['order_index'] as num?)?.toInt() ?? 0,
     );
 
 Map<String, dynamic> _$$SubtopicModelImplToJson(_$SubtopicModelImpl instance) =>
     <String, dynamic>{
       'id': instance.id,
-      'topicId': instance.topicId,
+      'topic_id': instance.topicId,
       'title': instance.title,
       'slug': instance.slug,
-      'orderIndex': instance.orderIndex,
+      'order_index': instance.orderIndex,
     };

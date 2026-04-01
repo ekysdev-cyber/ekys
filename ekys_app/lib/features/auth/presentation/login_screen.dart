@@ -122,6 +122,26 @@ class _LoginScreenState extends ConsumerState<LoginScreen> {
                     onPressed: _login,
                   ),
                   const SizedBox(height: AppSizes.md),
+                  OutlinedButton.icon(
+                    onPressed: authState.isLoading ? null : () async {
+                      final success = await ref.read(authProvider.notifier).guestSignIn();
+                      if (!context.mounted) return;
+                      if (success) {
+                        context.go('/dashboard');
+                      } else {
+                        final error = ref.read(authProvider).error;
+                        if (error != null) {
+                          context.showSnackBar(error.message, isError: true);
+                        }
+                      }
+                    },
+                    icon: const Icon(Icons.person_outline),
+                    label: const Text('Misafir Olarak Devam Et'),
+                    style: OutlinedButton.styleFrom(
+                      padding: const EdgeInsets.symmetric(vertical: 14),
+                    ),
+                  ),
+                  const SizedBox(height: AppSizes.sm),
                   TextButton(
                     onPressed: () => context.go('/register'),
                     child: const Text(AppStrings.noAccount),

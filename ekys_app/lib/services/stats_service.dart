@@ -1,4 +1,5 @@
 import 'package:flutter_riverpod/flutter_riverpod.dart';
+import 'package:supabase_flutter/supabase_flutter.dart';
 import '../../services/supabase_service.dart';
 
 class StatsService {
@@ -12,23 +13,14 @@ class StatsService {
     final userId = client.auth.currentUser?.id;
     if (userId == null) throw Exception('Kullanıcı girişi yapılmamış');
 
-    // Mümkün olduğunca az istek atmak için paralel çekelim
-    final futures = await Future.wait([
-      client.from('user_streaks').select().eq('user_id', userId).maybeSingle(),
-      client.from('user_progress').select('content_item_id').eq('user_id', userId),
-      client.from('content_items').select('id', const FetchOptions(count: CountOption.exact)),
-      client.from('user_quiz_results').select('score').eq('user_id', userId),
-      client.from('user_exam_results').select('score').eq('user_id', userId),
-    ]);
-
-    final streakData = futures[0] as Map<String, dynamic>? ?? {};
-    final progressData = futures[1] as List<dynamic>;
-    final contentResp = futures[2] as PostgrestResponse;
-    final quizData = futures[3] as List<dynamic>;
-    final examData = futures[4] as List<dynamic>;
+    // Verileri sırayla çekelim (Tip uyuşmazlığını önlemek için Future.wait yerine ayrı separate await)
+    final streakData = await client.from('user_streaks').select().eq('user_id', userId).maybeSingle() ?? {};
+    final progressData = await client.from('user_progress').select('content_item_id').eq('user_id', userId);
+    final totalCount = await client.from('content_items').count(CountOption.exact);
+    final quizData = await client.from('user_quiz_results').select('score').eq('user_id', userId);
+    final examData = await client.from('user_exam_results').select('score').eq('user_id', userId);
 
     final completedCount = progressData.length;
-    final totalCount = contentResp.count ?? 0;
     final progressPercent = totalCount > 0 ? (completedCount / totalCount) * 100 : 0.0;
 
     double quizAvg = 0;
